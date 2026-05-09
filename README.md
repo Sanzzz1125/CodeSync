@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Ransom Note
+### First Unique Character in a String
 
 ---
 

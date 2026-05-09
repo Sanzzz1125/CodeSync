@@ -1,23 +1,26 @@
 # 3Sum
 
-        ## Difficulty
-        Medium
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
-        ## Topics
+---
 
-        - Array
+## Topics
+
+- Array
 - Two Pointers
 - Sorting
 
-        ## Problem Link
+---
 
-        https://leetcode.com/problems/3sum
+## Problem Link
 
-        ---
+https://leetcode.com/problems/3sum
 
-        ## Problem Statement
+---
 
-        Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+## Problem Statement
+
+Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
 
 Notice that the solution set must not contain duplicate triplets.
 
@@ -55,9 +58,12 @@ Constraints:
 	3 <= nums.length <= 3000
 	-105 <= nums[i] <= 105
 
-        ---
+---
 
-        ## Language
+## Language
 
-        java
-        
+java
+
+---
+
+Powered by SyncLeetX ⚡

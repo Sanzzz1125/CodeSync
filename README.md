@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Alternating Groups I
+### Find the Encrypted String
 
 ---
 

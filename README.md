@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### License Key Formatting
+### Max Consecutive Ones
 
 ---
 

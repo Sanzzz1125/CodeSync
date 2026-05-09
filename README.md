@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Univalued Binary Tree
+### Squares of a Sorted Array
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Build an Array With Stack Operations
+### Shuffle the Array
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

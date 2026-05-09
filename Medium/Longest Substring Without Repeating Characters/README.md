@@ -14,7 +14,7 @@
 
 ## Problem Link
 
-https://leetcode.com/problems/longest-substring-without-repeating-characters
+https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 
 ---
 
@@ -57,7 +57,7 @@ s consists of English letters, digits, symbols and spaces.
 
 ## Language
 
-java
+1/6
 
 ---
 

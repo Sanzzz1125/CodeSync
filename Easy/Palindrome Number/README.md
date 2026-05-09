@@ -6,13 +6,13 @@
 
 ## Topics
 
-- 1
+- Math
 
 ---
 
 ## Problem Link
 
-https://leetcode.com/problems/palindrome-number
+https://leetcode.com/problems/palindrome-number/description/
 
 ---
 
@@ -21,6 +21,7 @@ https://leetcode.com/problems/palindrome-number
 Given an integer x, return true if x is a palindrome, and false otherwise.
 
  
+
 Example 1:
 
 Input: x = 121
@@ -43,20 +44,20 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
 
  
+
 Constraints:
 
-
-	-231 <= x <= 231 - 1
-
+-231 <= x <= 231 - 1
 
  
+
 Follow up: Could you solve it without converting the integer to a string?
 
 ---
 
 ## Language
 
-java
+1/6
 
 ---
 

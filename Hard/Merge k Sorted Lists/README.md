@@ -6,13 +6,16 @@
 
 ## Topics
 
-
+- Linked List
+- Divide and Conquer
+- Heap (Priority Queue)
+- Merge Sort
 
 ---
 
 ## Problem Link
 
-https://leetcode.com/problems/merge-k-sorted-lists
+https://leetcode.com/problems/merge-k-sorted-lists/description/
 
 ---
 
@@ -23,6 +26,7 @@ You are given an array of k linked-lists lists, each linked-list is sorted in as
 Merge all the linked-lists into one sorted linked-list and return it.
 
  
+
 Example 1:
 
 Input: lists = [[1,4,5],[1,3,4],[2,6]]
@@ -50,15 +54,15 @@ Output: []
 
 
  
+
 Constraints:
 
-
-	k == lists.length
-	0 <= k <= 104
-	0 <= lists[i].length <= 500
-	-104 <= lists[i][j] <= 104
-	lists[i] is sorted in ascending order.
-	The sum of lists[i].length will not exceed 104.
+k == lists.length
+0 <= k <= 104
+0 <= lists[i].length <= 500
+-104 <= lists[i][j] <= 104
+lists[i] is sorted in ascending order.
+The sum of lists[i].length will not exceed 104.
 
 ---
 

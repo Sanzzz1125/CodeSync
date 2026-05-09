@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### A Number After a Double Reversal
+### Check if All A's Appears Before All B's
 
 ---
 

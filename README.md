@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Subtract the Product and Sum of Digits of an Integer
+### Convert Binary Number in a Linked List to Integer
 
 ---
 

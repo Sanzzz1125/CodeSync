@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Longest Valid Parentheses
+### Search in Rotated Sorted Array
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Hard |
+| Difficulty | Medium |
 | Language | java |
 
 ---

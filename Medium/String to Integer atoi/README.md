@@ -117,7 +117,7 @@ s consists of English letters (lower-case and upper-case), digits (0-9), ' ', '+
 
 ## Language
 
-1/6
+java
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Swapping Nodes in a Linked List
+### Merge Strings Alternately
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

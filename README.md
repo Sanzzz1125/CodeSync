@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Strong Password Checker II
+### Count Asterisks
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find Numbers with Even Number of Digits
+### Maximum 69 Number
 
 ---
 

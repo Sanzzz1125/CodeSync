@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find Center of Star Graph
+### Second Largest Digit in a String
 
 ---
 

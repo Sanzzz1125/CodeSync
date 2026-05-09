@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find Smallest Letter Greater Than Target
+### Min Cost Climbing Stairs
 
 ---
 

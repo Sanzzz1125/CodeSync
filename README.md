@@ -18,7 +18,7 @@
 
     ## Latest Solved Problem
 
-    ### 3Sum
+    ### Rotate List
 
     ---
 

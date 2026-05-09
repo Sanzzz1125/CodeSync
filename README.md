@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find First Palindromic String in the Array
+### Maximum Number of Words Found in Sentences
 
 ---
 

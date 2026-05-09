@@ -1,24 +1,27 @@
 # Group Anagrams
 
-        ## Difficulty
-        Medium
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
-        ## Topics
+---
 
-        - Array
+## Topics
+
+- Array
 - Hash Table
 - String
 - Sorting
 
-        ## Problem Link
+---
 
-        https://leetcode.com/problems/group-anagrams
+## Problem Link
 
-        ---
+https://leetcode.com/problems/group-anagrams
 
-        ## Problem Statement
+---
 
-        Given an array of strings strs, group the anagrams together. You can return the answer in any order.
+## Problem Statement
+
+Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 
  
 Example 1:
@@ -61,9 +64,12 @@ Constraints:
 	0 <= strs[i].length <= 100
 	strs[i] consists of lowercase English letters.
 
-        ---
+---
 
-        ## Language
+## Language
 
-        java
-        
+java
+
+---
+
+Powered by SyncLeetX ⚡

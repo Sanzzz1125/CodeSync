@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Count of Matches in Tournament
+### Swapping Nodes in a Linked List
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

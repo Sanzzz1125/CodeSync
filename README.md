@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Removing Stars From a String
+### Smallest Even Multiple
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Next Greater Element I
+### Diagonal Traverse
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Rectangle Area
+### Majority Element II
 
 ---
 

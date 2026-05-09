@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Special Positions in a Binary Matrix
+### Maximum Nesting Depth of the Parentheses
 
 ---
 

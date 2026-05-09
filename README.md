@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Duplicate Zeros
+### Defanging an IP Address
 
 ---
 

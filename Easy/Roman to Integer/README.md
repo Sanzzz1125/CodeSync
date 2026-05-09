@@ -1,23 +1,26 @@
 # Roman to Integer
 
-        ## Difficulty
-        Easy
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen)
 
-        ## Topics
+---
 
-        - Hash Table
+## Topics
+
+- Hash Table
 - Math
 - String
 
-        ## Problem Link
+---
 
-        https://leetcode.com/problems/roman-to-integer
+## Problem Link
 
-        ---
+https://leetcode.com/problems/roman-to-integer
 
-        ## Problem Statement
+---
 
-        Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
+## Problem Statement
+
+Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
 Symbol       Value
 I             1
@@ -70,9 +73,12 @@ Constraints:
 	s contains only the characters ('I', 'V', 'X', 'L', 'C', 'D', 'M').
 	It is guaranteed that s is a valid roman numeral in the range [1, 3999].
 
-        ---
+---
 
-        ## Language
+## Language
 
-        java
-        
+java
+
+---
+
+Powered by SyncLeetX ⚡

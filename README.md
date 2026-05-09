@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Longest Substring Without Repeating Characters
+### Median of Two Sorted Arrays
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Hard |
 | Language | java |
 
 ---

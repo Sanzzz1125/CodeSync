@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Middle of the Linked List
+### Stone Game
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

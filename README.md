@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Valid Palindrome
+### Sum Root to Leaf Numbers
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

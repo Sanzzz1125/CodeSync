@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Counting Words With a Given Prefix
+### Add Two Integers
 
 ---
 

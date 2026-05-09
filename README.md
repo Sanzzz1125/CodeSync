@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Convert a Number to Hexadecimal
+### Longest Palindrome
 
 ---
 

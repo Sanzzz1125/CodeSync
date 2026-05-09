@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Count Binary Substrings
+### Binary Search
 
 ---
 

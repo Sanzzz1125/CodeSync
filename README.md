@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Longest Balanced Subarray II
+### Maximize Expression of Three Elements
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Hard |
+| Difficulty | Easy |
 | Language | java |
 
 ---

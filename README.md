@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Single Number
+### Single Number II
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

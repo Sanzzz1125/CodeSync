@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Absolute Difference Between Maximum and Minimum K Elements
+### Mirror Distance of an Integer
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Time Needed to Buy Tickets
+### Delete the Middle Node of a Linked List
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

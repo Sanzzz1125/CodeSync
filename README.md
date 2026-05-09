@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Can Make Arithmetic Progression From Sequence
+### Reformat Date
 
 ---
 

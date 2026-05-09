@@ -1,22 +1,25 @@
 # Rotate List
 
-        ## Difficulty
-        Medium
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
-        ## Topics
+---
 
-        - Linked List
+## Topics
+
+- Linked List
 - Two Pointers
 
-        ## Problem Link
+---
 
-        https://leetcode.com/problems/rotate-list
+## Problem Link
 
-        ---
+https://leetcode.com/problems/rotate-list
 
-        ## Problem Statement
+---
 
-        Given the head of a linked list, rotate the list to the right by k places.
+## Problem Statement
+
+Given the head of a linked list, rotate the list to the right by k places.
 
  
 Example 1:
@@ -39,9 +42,12 @@ Constraints:
 	-100 <= Node.val <= 100
 	0 <= k <= 2 * 109
 
-        ---
+---
 
-        ## Language
+## Language
 
-        java
-        
+java
+
+---
+
+Powered by SyncLeetX ⚡

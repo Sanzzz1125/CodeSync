@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Defanging an IP Address
+### N-th Tribonacci Number
 
 ---
 

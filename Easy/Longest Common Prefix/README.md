@@ -51,7 +51,7 @@ strs[i] consists of only lowercase English letters if it is non-empty.
 
 ## Language
 
-1/6
+java
 
 ---
 

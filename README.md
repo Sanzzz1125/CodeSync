@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Remove Trailing Zeros From a String
+### Minimize String Length
 
 ---
 

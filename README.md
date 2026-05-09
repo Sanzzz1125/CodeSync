@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Valid Anagram
+### Binary Tree Paths
 
 ---
 

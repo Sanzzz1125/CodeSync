@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Count Numbers with Unique Digits
+### Water and Jug Problem
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Maximum Depth of N-ary Tree
+### Reshape the Matrix
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Linked List Components
+### Flipping an Image
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

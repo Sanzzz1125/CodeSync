@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Trapping Rain Water
+### Rotate Image
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Hard |
+| Difficulty | Medium |
 | Language | java |
 
 ---

@@ -6,14 +6,13 @@
 
 ## Topics
 
-- 1], then return 0.
-- 1
+- Math
 
 ---
 
 ## Problem Link
 
-https://leetcode.com/problems/reverse-integer
+https://leetcode.com/problems/reverse-integer/description/
 
 ---
 
@@ -24,6 +23,7 @@ Given a signed 32-bit integer x, return x with its digits reversed. If reversing
 Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
 
  
+
 Example 1:
 
 Input: x = 123
@@ -43,16 +43,16 @@ Output: 21
 
 
  
+
 Constraints:
 
-
-	-231 <= x <= 231 - 1
+-231 <= x <= 231 - 1
 
 ---
 
 ## Language
 
-java
+1/6
 
 ---
 

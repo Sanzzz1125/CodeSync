@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Merge k Sorted Lists
+### Remove Duplicates from Sorted Array
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Hard |
+| Difficulty | Easy |
 | Language | java |
 
 ---

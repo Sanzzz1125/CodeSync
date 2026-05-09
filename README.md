@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Delete Columns to Make Sorted
+### Univalued Binary Tree
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Binary Tree Level Order Traversal II
+### Convert Sorted List to Binary Search Tree
 
 ---
 

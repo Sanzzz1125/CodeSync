@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Single Number II
+### Linked List Cycle
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Range Sum of BST
+### Delete Columns to Make Sorted
 
 ---
 

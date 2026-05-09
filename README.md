@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Check if All Characters Have Equal Number of Occurrences
+### Sum of Digits of String After Convert
 
 ---
 

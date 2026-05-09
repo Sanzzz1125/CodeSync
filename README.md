@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Kth Largest Sum in a Binary Tree
+### Number of Senior Citizens
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

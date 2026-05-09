@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Reverse Prefix of Word
+### Time Needed to Buy Tickets
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Binary Tree Paths
+### Add Digits
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Zigzag Conversion
+### Reverse Integer
 
 ---
 

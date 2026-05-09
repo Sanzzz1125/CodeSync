@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Check if All A's Appears Before All B's
+### Number of Laser Beams in a Bank
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

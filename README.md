@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Search a 2D Matrix
+### Sort Colors
 
 ---
 

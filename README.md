@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Minimum Operations to Make Array Equal
+### Matrix Diagonal Sum
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

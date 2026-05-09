@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Palindrome Linked List
+### Delete Node in a Linked List
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

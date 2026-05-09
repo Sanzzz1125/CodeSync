@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Complement of Base 10 Integer
+### Capacity To Ship Packages Within D Days
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

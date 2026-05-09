@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Merge Two Sorted Lists
+### Cyclically Rotating a Grid
 
 ---
 
@@ -37,8 +37,8 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
-| Language | 1/6 |
+| Difficulty | Medium |
+| Language | java |
 
 ---
 

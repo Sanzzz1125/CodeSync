@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Maximum Subarray
+### Spiral Matrix
 
 ---
 

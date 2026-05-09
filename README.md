@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Number of Enclaves
+### Sum of Root To Leaf Binary Numbers
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

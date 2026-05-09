@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Path Sum
+### Path Sum II
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

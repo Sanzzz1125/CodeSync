@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Maximum Number of Balloons
+### Reverse Substrings Between Each Pair of Parentheses
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find the Pivot Integer
+### Remove Nodes From Linked List
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

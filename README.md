@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### House Robber
+### Number of Islands
 
 ---
 

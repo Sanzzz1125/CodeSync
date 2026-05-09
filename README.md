@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find if Digit Game Can Be Won
+### Final Array State After K Multiplication Operations I
 
 ---
 

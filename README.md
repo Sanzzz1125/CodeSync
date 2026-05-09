@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Delete Greatest Value in Each Row
+### Count the Digits That Divide a Number
 
 ---
 

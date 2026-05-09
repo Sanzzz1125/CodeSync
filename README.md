@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Base 7
+### Perfect Number
 
 ---
 

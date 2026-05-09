@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Substrings of Size Three with Distinct Characters
+### Determine Whether Matrix Can Be Obtained By Rotation
 
 ---
 

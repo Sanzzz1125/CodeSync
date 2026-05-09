@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Reverse Bits
+### Number of 1 Bits
 
 ---
 

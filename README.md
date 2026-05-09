@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Number of Strings That Appear as Substrings in Word
+### Find Greatest Common Divisor of Array
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Minimum Removals to Balance Array
+### GCD of Odd and Even Sums
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

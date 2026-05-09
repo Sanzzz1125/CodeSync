@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Valid Sudoku
+### Trapping Rain Water
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Hard |
 | Language | java |
 
 ---

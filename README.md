@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Prime Pairs With Target Sum
+### Insert Greatest Common Divisors in Linked List
 
 ---
 

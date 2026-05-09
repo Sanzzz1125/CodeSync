@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Rotate Image
+### Rotate List
 
 ---
 

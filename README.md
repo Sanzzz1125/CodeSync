@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Spiral Matrix IV
+### Removing Stars From a String
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### 3Sum
+### Remove Nth Node From End of List
 
 ---
 

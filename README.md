@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Shuffle String
+### Make The String Great
 
 ---
 

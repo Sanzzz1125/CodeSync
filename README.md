@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Delete Nodes From Linked List Present in Array
+### Find the Winning Player in Coin Game
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

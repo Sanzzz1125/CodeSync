@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Group Anagrams
+### Pow(x, n)
 
 ---
 

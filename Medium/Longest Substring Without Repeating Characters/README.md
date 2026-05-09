@@ -57,7 +57,7 @@ s consists of English letters, digits, symbols and spaces.
 
 ## Language
 
-1/6
+java
 
 ---
 

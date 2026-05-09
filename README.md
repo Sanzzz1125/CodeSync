@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Power of Four
+### Integer Break
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

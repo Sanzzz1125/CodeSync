@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find the Winning Player in Coin Game
+### Find if Digit Game Can Be Won
 
 ---
 

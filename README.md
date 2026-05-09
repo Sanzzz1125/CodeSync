@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Factorial Trailing Zeroes
+### Rotate Array
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Clear Digits
+### Alternating Groups I
 
 ---
 

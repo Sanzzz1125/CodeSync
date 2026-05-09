@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find Minimum in Rotated Sorted Array
+### Min Stack
 
 ---
 

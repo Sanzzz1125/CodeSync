@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Smallest Range I
+### Reverse Only Letters
 
 ---
 

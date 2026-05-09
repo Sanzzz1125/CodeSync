@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Kth Largest Element in an Array
+### Contains Duplicate
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

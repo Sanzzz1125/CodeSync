@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Three Divisors
+### Number of Strings That Appear as Substrings in Word
 
 ---
 

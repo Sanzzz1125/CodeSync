@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Perfect Number
+### Fibonacci Number
 
 ---
 

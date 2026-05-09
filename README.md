@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Pascal's Triangle
+### Pascal's Triangle II
 
 ---
 

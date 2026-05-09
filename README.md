@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Richest Customer Wealth
+### Concatenation of Consecutive Binary Numbers
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

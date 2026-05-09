@@ -14,7 +14,7 @@
 
 ## Problem Link
 
-https://leetcode.com/problems/jump-game
+https://leetcode.com/problems/jump-game/description/
 
 ---
 
@@ -25,6 +25,7 @@ You are given an integer array nums. You are initially positioned at the array's
 Return true if you can reach the last index, or false otherwise.
 
  
+
 Example 1:
 
 Input: nums = [2,3,1,1,4]
@@ -40,11 +41,11 @@ Explanation: You will always arrive at index 3 no matter what. Its maximum jump 
 
 
  
+
 Constraints:
 
-
-	1 <= nums.length <= 104
-	0 <= nums[i] <= 105
+1 <= nums.length <= 104
+0 <= nums[i] <= 105
 
 ---
 

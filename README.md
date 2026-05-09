@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Broken Calculator
+### Rotting Oranges
 
 ---
 

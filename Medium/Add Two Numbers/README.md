@@ -57,7 +57,7 @@ It is guaranteed that the list represents a number that does not have leading ze
 
 ## Language
 
-1/6
+java
 
 ---
 

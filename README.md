@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Transformed Array
+### Maximum Difference Between Adjacent Elements in a Circular Array
 
 ---
 

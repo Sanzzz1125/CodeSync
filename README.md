@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Check if Binary String Has at Most One Segment of Ones
+### Find Center of Star Graph
 
 ---
 

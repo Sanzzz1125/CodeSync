@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Word Pattern
+### Nim Game
 
 ---
 

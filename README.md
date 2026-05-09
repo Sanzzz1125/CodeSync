@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Power of Two
+### Palindrome Linked List
 
 ---
 

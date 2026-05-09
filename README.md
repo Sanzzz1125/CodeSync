@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Contains Duplicate II
+### Count Complete Tree Nodes
 
 ---
 

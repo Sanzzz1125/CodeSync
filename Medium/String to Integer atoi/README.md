@@ -1,21 +1,25 @@
-# String to Integer (atoi)
+# String to Integer atoi
 
-        ## Difficulty
-        Medium
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
-        ## Topics
+---
 
-        - String
+## Topics
 
-        ## Problem Link
+- String
+- 1], then round the integer to remain in the range. Specifically, integers less than -231 should be rounded to -231, and integers greater than 231 - 1 should be rounded to 231 - 1.
 
-        https://leetcode.com/problems/string-to-integer-atoi
+---
 
-        ---
+## Problem Link
 
-        ## Problem Statement
+https://leetcode.com/problems/string-to-integer-atoi
 
-        Implement the myAtoi(string s) function, which converts a string to a 32-bit signed integer.
+---
+
+## Problem Statement
+
+Implement the myAtoi(string s) function, which converts a string to a 32-bit signed integer.
 
 The algorithm for myAtoi(string s) is as follows:
 
@@ -121,9 +125,12 @@ Constraints:
 	0 <= s.length <= 200
 	s consists of English letters (lower-case and upper-case), digits (0-9), ' ', '+', '-', and '.'.
 
-        ---
+---
 
-        ## Language
+## Language
 
-        java
-        
+java
+
+---
+
+Powered by SyncLeetX ⚡

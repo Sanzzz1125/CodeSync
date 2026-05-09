@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Merge Two Sorted Lists
+### Merge k Sorted Lists
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Hard |
 | Language | java |
 
 ---

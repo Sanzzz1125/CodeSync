@@ -1,17 +1,45 @@
-# LeetCode Practice
+# LeetCode Practice 🚀
 
-## Latest Synced Problem
+![Total Solved](https://img.shields.io/badge/Total%20Solved-0-blue)
 
-- String to Integer (atoi)
+![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
 
-## Last Difficulty
+![Medium](https://img.shields.io/badge/Medium-0-yellow)
 
-- Medium
-
-## Last Language
-
-- java
+![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ---
 
-Powered by SyncLeetX 🚀
+## LeetCode User
+
+### Sanketh1125
+
+---
+
+## Latest Solved Problem
+
+### String to Integer (atoi)
+
+---
+
+## LeetCode Statistics
+
+| Difficulty | Solved |
+|---|---|
+| Easy | 0 |
+| Medium | 0 |
+| Hard | 0 |
+| Total | 0 |
+
+---
+
+## Last Synced Problem
+
+| Property | Value |
+|---|---|
+| Difficulty | Medium |
+| Language | java |
+
+---
+
+Powered by SyncLeetX ⚡

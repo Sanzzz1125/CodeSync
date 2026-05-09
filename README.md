@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Minimum Distance to the Target Element
+### Sorting the Sentence
 
 ---
 

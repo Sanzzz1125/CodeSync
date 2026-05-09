@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find the Encrypted String
+### Delete Nodes From Linked List Present in Array
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

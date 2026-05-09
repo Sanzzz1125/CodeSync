@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Rotting Oranges
+### Clumsy Factorial
 
 ---
 

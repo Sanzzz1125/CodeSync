@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Average of Levels in Binary Tree
+### Robot Return to Origin
 
 ---
 

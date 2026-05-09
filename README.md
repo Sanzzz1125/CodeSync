@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Sorting the Sentence
+### Substrings of Size Three with Distinct Characters
 
 ---
 

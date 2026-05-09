@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Remove Linked List Elements
+### Isomorphic Strings
 
 ---
 

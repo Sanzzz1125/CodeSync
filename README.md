@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### String to Integer (atoi)
+### Spiral Matrix
 
 ---
 

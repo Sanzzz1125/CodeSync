@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Number of Laser Beams in a Bank
+### Minimum Moves to Reach Target Score
 
 ---
 

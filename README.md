@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Determine Whether Matrix Can Be Obtained By Rotation
+### Redistribute Characters to Make All Strings Equal
 
 ---
 

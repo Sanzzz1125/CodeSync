@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Concatenate Non-Zero Digits and Multiply by Sum I
+### Sort Integers by Binary Reflection
 
 ---
 

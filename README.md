@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Clumsy Factorial
+### Complement of Base 10 Integer
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

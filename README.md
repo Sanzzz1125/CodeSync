@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Transform Array by Parity
+### Minimum Operations to Make Array Sum Divisible by K
 
 ---
 

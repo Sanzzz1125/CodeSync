@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Detect Capital
+### Single Element in a Sorted Array
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

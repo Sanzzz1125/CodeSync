@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Check if The Number is Fascinating
+### Prime Pairs With Target Sum
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Balanced Binary Tree
+### Path Sum
 
 ---
 

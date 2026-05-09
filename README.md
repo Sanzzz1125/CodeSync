@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Spiral Matrix
+### Search in Rotated Sorted Array
 
 ---
 

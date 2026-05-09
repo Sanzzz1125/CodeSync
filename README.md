@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Max Consecutive Ones
+### Next Greater Element I
 
 ---
 

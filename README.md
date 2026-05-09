@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Convert Date to Binary
+### Find Indices of Stable Mountains
 
 ---
 

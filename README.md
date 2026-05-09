@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Intersection of Two Arrays
+### Intersection of Two Arrays II
 
 ---
 

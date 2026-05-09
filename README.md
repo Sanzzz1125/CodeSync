@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find Greatest Common Divisor of Array
+### Find the Middle Index in Array
 
 ---
 

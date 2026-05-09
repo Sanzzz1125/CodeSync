@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Reverse Integer
+### String to Integer (atoi)
 
 ---
 

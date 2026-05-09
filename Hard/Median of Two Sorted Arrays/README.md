@@ -55,7 +55,7 @@ nums2.length == n
 
 ## Language
 
-1/6
+java
 
 ---
 

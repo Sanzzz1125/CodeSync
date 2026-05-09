@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Champagne Tower
+### Linked List Components
 
 ---
 

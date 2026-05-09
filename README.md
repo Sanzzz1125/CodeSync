@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Shuffle the Array
+### Running Sum of 1d Array
 
 ---
 

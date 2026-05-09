@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Number of Segments in a String
+### Find All Anagrams in a String
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

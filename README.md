@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Root Equals Sum of Children
+### Strong Password Checker II
 
 ---
 

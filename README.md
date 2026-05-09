@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Keyboard Row
+### Base 7
 
 ---
 

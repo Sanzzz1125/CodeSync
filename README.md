@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Intersection of Two Arrays II
+### Count Numbers with Unique Digits
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Longest Common Prefix
+### 3Sum
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | 1/6 |
 
 ---

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Fizz Buzz
+### Third Maximum Number
 
 ---
 

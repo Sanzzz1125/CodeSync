@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Toeplitz Matrix
+### Jewels and Stones
 
 ---
 

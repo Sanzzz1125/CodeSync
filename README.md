@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Same Tree
+### Binary Tree Level Order Traversal
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

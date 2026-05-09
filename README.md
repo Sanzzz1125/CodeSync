@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Check if Any Element Has Prime Frequency
+### Minimum Removals to Balance Array
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

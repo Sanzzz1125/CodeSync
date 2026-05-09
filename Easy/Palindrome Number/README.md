@@ -1,11 +1,24 @@
 # Palindrome Number
-        ## Difficulty
-        Easy
-        ## Problem Link
-        https://leetcode.com/problems/palindrome-number
-        ---
-        ## Problem Statement
-        Given an integer x, return true if x is a palindrome, and false otherwise.
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen)
+
+---
+
+## Topics
+
+- 1
+
+---
+
+## Problem Link
+
+https://leetcode.com/problems/palindrome-number
+
+---
+
+## Problem Statement
+
+Given an integer x, return true if x is a palindrome, and false otherwise.
 
  
 Example 1:
@@ -38,7 +51,13 @@ Constraints:
 
  
 Follow up: Could you solve it without converting the integer to a string?
-        ---
-        ## Language
-        java
-        
+
+---
+
+## Language
+
+java
+
+---
+
+Powered by SyncLeetX ⚡

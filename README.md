@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Ugly Number
+### Missing Number
 
 ---
 

@@ -1,27 +1,27 @@
 # Binary Tree Inorder Traversal
 
-        ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen)
 
-        ---
+---
 
-        ## Topics
+## Topics
 
-        - Stack
+- Stack
 - Tree
 - Depth-First Search
 - Binary Tree
 
-        ---
+---
 
-        ## Problem Link
+## Problem Link
 
-        https://leetcode.com/problems/binary-tree-inorder-traversal
+https://leetcode.com/problems/binary-tree-inorder-traversal
 
-        ---
+---
 
-        ## Problem Statement
+## Problem Statement
 
-        Given the root of a binary tree, return the inorder traversal of its nodes' values.
+Given the root of a binary tree, return the inorder traversal of its nodes' values.
 
  
 Example 1:
@@ -75,13 +75,16 @@ Constraints:
  
 Follow up: Recursive solution is trivial, could you do it iteratively?
 
-        ---
+---
 
-        ## Language
+## Language
 
-        java
+java
 
         ---
 
         Powered by SyncLeetX ⚡
-        
+
+---
+
+Powered by SyncLeetX ⚡

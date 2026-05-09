@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Longest Palindrome
+### Split Array Largest Sum
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Hard |
 | Language | java |
 
 ---

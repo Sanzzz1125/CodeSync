@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Maximize Expression of Three Elements
+### Concatenate Non-Zero Digits and Multiply by Sum I
 
 ---
 

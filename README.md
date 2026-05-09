@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Merge Strings Alternately
+### Check if Binary String Has at Most One Segment of Ones
 
 ---
 

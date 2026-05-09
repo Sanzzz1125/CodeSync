@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Plus One
+### Add Binary
 
 ---
 

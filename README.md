@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Check If Two String Arrays are Equivalent
+### Merge In Between Linked Lists
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

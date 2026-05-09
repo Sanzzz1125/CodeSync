@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Count Nice Pairs in an Array
+### Truncate Sentence
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

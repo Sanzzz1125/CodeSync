@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Redistribute Characters to Make All Strings Equal
+### Concatenation of Array
 
 ---
 

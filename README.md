@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Replace All Digits with Characters
+### Minimum Distance to the Target Element
 
 ---
 

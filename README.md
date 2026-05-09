@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Harshad Number
+### Score of a String
 
 ---
 

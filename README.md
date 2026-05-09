@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Rank Transform of an Array
+### Count Negative Numbers in a Sorted Matrix
 
 ---
 

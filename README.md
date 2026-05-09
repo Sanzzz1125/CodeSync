@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Reverse String
+### Reverse Vowels of a String
 
 ---
 

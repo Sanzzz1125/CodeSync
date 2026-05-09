@@ -2,11 +2,11 @@
 
 ## Latest Synced Problem
 
-- Trapping Rain Water
+- Remove Nth Node From End of List
 
 ## Last Difficulty
 
-- Hard
+- Medium
 
 ## Last Language
 

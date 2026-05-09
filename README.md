@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Search in Rotated Sorted Array
+### Rotate List
 
 ---
 

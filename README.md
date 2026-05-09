@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find the Middle Index in Array
+### Reverse Prefix of Word
 
 ---
 

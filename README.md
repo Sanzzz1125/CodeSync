@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Remove Nth Node From End of List
+### Valid Parentheses
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

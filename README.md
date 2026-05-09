@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Valid Parentheses
+### Merge Two Sorted Lists
 
 ---
 

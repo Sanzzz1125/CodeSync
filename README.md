@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Product of Array Except Self
+### Spiral Matrix
 
 ---
 

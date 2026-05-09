@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find All Anagrams in a String
+### Arranging Coins
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

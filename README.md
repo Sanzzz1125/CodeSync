@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Circular Sentence
+### Delete Greatest Value in Each Row
 
 ---
 

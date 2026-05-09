@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Remove Duplicates from Sorted Array II
+### Remove Duplicates from Sorted List II
 
 ---
 

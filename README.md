@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Isomorphic Strings
+### Reverse Linked List
 
 ---
 

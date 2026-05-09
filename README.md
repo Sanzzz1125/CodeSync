@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Reverse Words in a String
+### Find Minimum in Rotated Sorted Array
 
 ---
 

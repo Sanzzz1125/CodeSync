@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Jump Game
+### Length of Last Word
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

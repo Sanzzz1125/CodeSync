@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Binary Tree Zigzag Level Order Traversal
+### Maximum Depth of Binary Tree
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

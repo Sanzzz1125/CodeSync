@@ -13,26 +13,31 @@ class Solution {
         int[] arr = new int[right-left+1];
         ListNode temp = head;
         int size = 0;
+        
         while(temp!=null){
             size++;
             temp = temp.next;
         }
         int k=0;
         temp = head;
+
         for(int i=1;temp!=null;i++){
             if(i>=left && i<=right){
                 arr[k++] = temp.val;
             }
             temp = temp.next;
         }
+
         temp = head;
         k--;
+
         for(int i=1;temp!=null;i++){
             if(i>=left && i<=right){
                 temp.val = arr[k--];
             }
             temp = temp.next;
         }
+
         return head;
     }
 }

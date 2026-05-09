@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Divisor Game
+### Remove All Adjacent Duplicates In String
 
 ---
 

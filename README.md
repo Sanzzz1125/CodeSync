@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Monotonic Array
+### Sort Array By Parity
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Convert Sorted List to Binary Search Tree
+### Balanced Binary Tree
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

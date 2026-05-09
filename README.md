@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Transpose Matrix
+### Binary Gap
 
 ---
 

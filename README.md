@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Sort Array By Parity
+### Smallest Range I
 
 ---
 

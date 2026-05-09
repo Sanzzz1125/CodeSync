@@ -1,23 +1,26 @@
 # Spiral Matrix
 
-        ## Difficulty
-        Medium
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
-        ## Topics
+---
 
-        - Array
+## Topics
+
+- Array
 - Matrix
 - Simulation
 
-        ## Problem Link
+---
 
-        https://leetcode.com/problems/spiral-matrix
+## Problem Link
 
-        ---
+https://leetcode.com/problems/spiral-matrix
 
-        ## Problem Statement
+---
 
-        Given an m x n matrix, return all elements of the matrix in spiral order.
+## Problem Statement
+
+Given an m x n matrix, return all elements of the matrix in spiral order.
 
  
 Example 1:
@@ -41,9 +44,12 @@ Constraints:
 	1 <= m, n <= 10
 	-100 <= matrix[i][j] <= 100
 
-        ---
+---
 
-        ## Language
+## Language
 
-        java
-        
+java
+
+---
+
+Powered by SyncLeetX ⚡

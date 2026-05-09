@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### N-ary Tree Preorder Traversal
+### N-ary Tree Postorder Traversal
 
 ---
 

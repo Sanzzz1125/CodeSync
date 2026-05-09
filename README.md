@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Greatest Common Divisor of Strings
+### Duplicate Zeros
 
 ---
 

@@ -1,12 +1,12 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-338-blue)
 
-![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-221-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-0-yellow)
+![Medium](https://img.shields.io/badge/Medium-110-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-0-red)
+![Hard](https://img.shields.io/badge/Hard-7-red)
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Group Anagrams
+### Same Tree
 
 ---
 
@@ -26,10 +26,10 @@
 
 | Difficulty | Solved |
 |---|---|
-| Easy | 0 |
-| Medium | 0 |
-| Hard | 0 |
-| Total | 0 |
+| Easy | 221 |
+| Medium | 110 |
+| Hard | 7 |
+| Total | 338 |
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

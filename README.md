@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Delete Node in a Linked List
+### Product of Array Except Self
 
 ---
 

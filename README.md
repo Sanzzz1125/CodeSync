@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Final Array State After K Multiplication Operations I
+### Check if Two Chessboard Squares Have the Same Color
 
 ---
 

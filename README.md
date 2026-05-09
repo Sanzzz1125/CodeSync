@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Binary Tree Level Order Traversal
+### Binary Tree Zigzag Level Order Traversal
 
 ---
 

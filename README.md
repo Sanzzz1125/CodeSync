@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Score of a String
+### Find the Integer Added to Array I
 
 ---
 

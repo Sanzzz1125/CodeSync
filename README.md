@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Concatenation of Consecutive Binary Numbers
+### Count of Matches in Tournament
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

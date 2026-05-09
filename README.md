@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Maximum Nesting Depth of the Parentheses
+### Minimum Deletions to Make String Balanced
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

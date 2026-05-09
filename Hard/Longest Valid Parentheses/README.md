@@ -1,11 +1,24 @@
 # Longest Valid Parentheses
-        ## Difficulty
-        Hard
-        ## Problem Link
-        https://leetcode.com/problems/longest-valid-parentheses
-        ---
-        ## Problem Statement
-        Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) parentheses substring.
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red)
+
+---
+
+## Topics
+
+
+
+---
+
+## Problem Link
+
+https://leetcode.com/problems/longest-valid-parentheses
+
+---
+
+## Problem Statement
+
+Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) parentheses substring.
 
  
 Example 1:
@@ -34,7 +47,13 @@ Constraints:
 
 	0 <= s.length <= 3 * 104
 	s[i] is '(', or ')'.
-        ---
-        ## Language
-        java
-        
+
+---
+
+## Language
+
+java
+
+---
+
+Powered by SyncLeetX ⚡

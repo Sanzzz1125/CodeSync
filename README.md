@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Poor Pigs
+### Island Perimeter
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Hard |
+| Difficulty | Easy |
 | Language | java |
 
 ---

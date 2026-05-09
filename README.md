@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Remove Duplicates from Sorted List II
+### Remove Duplicates from Sorted List
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

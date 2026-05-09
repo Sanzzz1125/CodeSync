@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Nim Game
+### Range Sum Query - Immutable
 
 ---
 

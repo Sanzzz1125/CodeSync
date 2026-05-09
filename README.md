@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find the Winner of the Circular Game
+### Replace All Digits with Characters
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

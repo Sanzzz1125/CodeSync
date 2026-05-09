@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Binary Tree Preorder Traversal
+### Binary Tree Postorder Traversal
 
 ---
 

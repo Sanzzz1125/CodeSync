@@ -59,7 +59,7 @@ Both m and n are even integers.
 
 ## Language
 
-1/6
+java
 
 ---
 

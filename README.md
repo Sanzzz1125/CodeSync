@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Truncate Sentence
+### Find the Winner of the Circular Game
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

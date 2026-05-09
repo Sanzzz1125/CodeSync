@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### GCD of Odd and Even Sums
+### Longest Balanced Substring I
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

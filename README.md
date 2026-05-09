@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Min Cost Climbing Stairs
+### Largest Number At Least Twice of Others
 
 ---
 

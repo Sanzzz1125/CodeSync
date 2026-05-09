@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Partition Array Into Three Parts With Equal Sum
+### Next Greater Node In Linked List
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

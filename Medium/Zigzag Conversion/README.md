@@ -6,13 +6,13 @@
 
 ## Topics
 
-
+- String
 
 ---
 
 ## Problem Link
 
-https://leetcode.com/problems/zigzag-conversion
+https://leetcode.com/problems/zigzag-conversion/description/
 
 ---
 
@@ -33,6 +33,7 @@ string convert(string s, int numRows);
 
 
  
+
 Example 1:
 
 Input: s = "PAYPALISHIRING", numRows = 3
@@ -57,18 +58,18 @@ Output: "A"
 
 
  
+
 Constraints:
 
-
-	1 <= s.length <= 1000
-	s consists of English letters (lower-case and upper-case), ',' and '.'.
-	1 <= numRows <= 1000
+1 <= s.length <= 1000
+s consists of English letters (lower-case and upper-case), ',' and '.'.
+1 <= numRows <= 1000
 
 ---
 
 ## Language
 
-java
+1/6
 
 ---
 

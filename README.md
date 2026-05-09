@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Merge In Between Linked Lists
+### Richest Customer Wealth
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

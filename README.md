@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Binary Search
+### To Lower Case
 
 ---
 

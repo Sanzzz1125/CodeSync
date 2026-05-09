@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Balance a Binary Search Tree
+### Build an Array With Stack Operations
 
 ---
 

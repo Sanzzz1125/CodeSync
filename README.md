@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Sort Colors
+### Remove Duplicates from Sorted Array II
 
 ---
 

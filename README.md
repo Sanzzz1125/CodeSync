@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Flipping an Image
+### Keys and Rooms
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

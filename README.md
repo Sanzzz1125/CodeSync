@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Single Element in a Sorted Array
+### Student Attendance Record I
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

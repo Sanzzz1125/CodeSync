@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### N-th Tribonacci Number
+### Day of the Year
 
 ---
 

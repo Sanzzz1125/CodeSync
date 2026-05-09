@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Reverse Words in a String III
+### Maximum Depth of N-ary Tree
 
 ---
 

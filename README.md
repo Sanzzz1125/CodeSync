@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Add Digits
+### Ugly Number
 
 ---
 

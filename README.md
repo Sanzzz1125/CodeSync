@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Day of the Year
+### Maximum Level Sum of a Binary Tree
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

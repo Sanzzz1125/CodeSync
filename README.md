@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Rotate List
+### Plus One
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

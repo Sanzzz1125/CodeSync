@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Maximum Depth of Binary Tree
+### Binary Tree Level Order Traversal II
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

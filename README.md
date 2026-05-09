@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Lucky Numbers in a Matrix
+### Balance a Binary Search Tree
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

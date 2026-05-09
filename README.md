@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Reverse Linked List
+### Kth Largest Element in an Array
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

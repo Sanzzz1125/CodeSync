@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Sqrt(x)
+### Climbing Stairs
 
 ---
 

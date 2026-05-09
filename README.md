@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Mirror Distance of an Integer
+### Largest Even Number
 
 ---
 

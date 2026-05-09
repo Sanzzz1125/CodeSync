@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Insert Greatest Common Divisors in Linked List
+### Faulty Keyboard
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

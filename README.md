@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Third Maximum Number
+### Add Strings
 
 ---
 

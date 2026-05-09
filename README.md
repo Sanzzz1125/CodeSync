@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Binary Number with Alternating Bits
+### Max Area of Island
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Binary Tree Postorder Traversal
+### Sort List
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

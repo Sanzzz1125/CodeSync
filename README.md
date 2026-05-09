@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Convert the Temperature
+### Find the Pivot Integer
 
 ---
 

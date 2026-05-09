@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Count the Digits That Divide a Number
+### Kth Largest Sum in a Binary Tree
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

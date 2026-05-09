@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### N-ary Tree Level Order Traversal
+### Number of Segments in a String
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

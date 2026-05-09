@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Running Sum of 1d Array
+### Minimum Number of Days to Make m Bouquets
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

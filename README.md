@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Median of Two Sorted Arrays
+### Cyclically Rotating a Grid
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Hard |
+| Difficulty | Medium |
 | Language | java |
 
 ---

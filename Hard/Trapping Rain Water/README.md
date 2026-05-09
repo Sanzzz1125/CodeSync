@@ -2,16 +2,23 @@
 
         ## Difficulty
         Hard
+
         ## Topics
+
         - Array
 - Two Pointers
 - Dynamic Programming
 - Stack
 - Monotonic Stack
+
         ## Problem Link
+
         https://leetcode.com/problems/trapping-rain-water
+
         ---
+
         ## Problem Statement
+
         Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
 
  
@@ -35,7 +42,10 @@ Constraints:
 	n == height.length
 	1 <= n <= 2 * 104
 	0 <= height[i] <= 105
+
         ---
+
         ## Language
+
         java
         

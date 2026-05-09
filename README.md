@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Spiral Matrix
+### Jump Game
 
 ---
 

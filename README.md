@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Sum of Root To Leaf Binary Numbers
+### Divisor Game
 
 ---
 

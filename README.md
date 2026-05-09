@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Next Greater Node In Linked List
+### Number of Enclaves
 
 ---
 

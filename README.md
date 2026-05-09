@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Count Odd Numbers in an Interval Range
+### Shuffle String
 
 ---
 

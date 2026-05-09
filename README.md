@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Path Sum II
+### Pascal's Triangle
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

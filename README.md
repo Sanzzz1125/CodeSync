@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Happy Number
+### Remove Linked List Elements
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Binary Gap
+### Koko Eating Bananas
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

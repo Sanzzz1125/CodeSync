@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Reverse Vowels of a String
+### Intersection of Two Arrays
 
 ---
 

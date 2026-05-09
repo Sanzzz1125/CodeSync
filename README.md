@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Longest Substring Without Repeating Characters
+### Cyclically Rotating a Grid
 
 ---
 
@@ -38,7 +38,7 @@
 | Property | Value |
 |---|---|
 | Difficulty | Medium |
-| Language | java |
+| Language | 1/6 |
 
 ---
 

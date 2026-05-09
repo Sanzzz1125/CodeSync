@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Maximum Number of Words Found in Sentences
+### A Number After a Double Reversal
 
 ---
 

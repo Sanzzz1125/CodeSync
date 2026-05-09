@@ -63,7 +63,7 @@ Constraints:
 
 ## Language
 
-1/6
+java
 
 ---
 

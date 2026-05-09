@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Maximum Difference Between Adjacent Elements in a Circular Array
+### Sum of Good Numbers
 
 ---
 

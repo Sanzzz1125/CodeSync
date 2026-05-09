@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Split Array Largest Sum
+### Fizz Buzz
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Hard |
+| Difficulty | Easy |
 | Language | java |
 
 ---

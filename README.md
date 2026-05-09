@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Sort Integers by Binary Reflection
+### Absolute Difference Between Maximum and Minimum K Elements
 
 ---
 

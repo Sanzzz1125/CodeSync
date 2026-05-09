@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Koko Eating Bananas
+### Middle of the Linked List
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

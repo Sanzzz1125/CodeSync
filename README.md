@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Arranging Coins
+### Poor Pigs
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Hard |
 | Language | java |
 
 ---

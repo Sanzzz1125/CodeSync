@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Rotate String
+### Rotate Image
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

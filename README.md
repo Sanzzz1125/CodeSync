@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Matrix Diagonal Sum
+### Special Positions in a Binary Matrix
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Remove All Adjacent Duplicates In String
+### Greatest Common Divisor of Strings
 
 ---
 

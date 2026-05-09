@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Keep Multiplying Found Values by Two
+### Merge Nodes in Between Zeros
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

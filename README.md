@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Minimum Deletions to Make String Balanced
+### Check If Two String Arrays are Equivalent
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

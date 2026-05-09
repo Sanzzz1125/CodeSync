@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Add Two Integers
+### Root Equals Sum of Children
 
 ---
 

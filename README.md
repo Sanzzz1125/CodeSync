@@ -1,46 +1,45 @@
 # LeetCode Practice 🚀
 
-    ![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
 
-    ![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
 
-    ![Medium](https://img.shields.io/badge/Medium-0-yellow)
+![Medium](https://img.shields.io/badge/Medium-0-yellow)
 
-    ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Hard](https://img.shields.io/badge/Hard-0-red)
 
-    ---
+---
 
-    ## LeetCode User
+## LeetCode User
 
-    ### Sanketh1125
+### Sanketh1125
 
-    ---
+---
 
-    ## Latest Solved Problem
+## Latest Solved Problem
 
-    ### Rotate List
+### Roman to Integer
 
-    ---
+---
 
-    ## LeetCode Statistics
+## LeetCode Statistics
 
-    | Difficulty | Solved |
-    |---|---|
-    | Easy | 0 |
-    | Medium | 0 |
-    | Hard | 0 |
-    | Total | 0 |
+| Difficulty | Solved |
+|---|---|
+| Easy | 0 |
+| Medium | 0 |
+| Hard | 0 |
+| Total | 0 |
 
-    ---
+---
 
-    ## Last Synced Problem
+## Last Synced Problem
 
-    | Property | Value |
-    |---|---|
-    | Difficulty | Medium |
-    | Language | java |
+| Property | Value |
+|---|---|
+| Difficulty | Easy |
+| Language | java |
 
-    ---
+---
 
-    Powered by SyncLeetX ⚡
-    
+Powered by SyncLeetX ⚡

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find the Duplicate Number
+### Word Pattern
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

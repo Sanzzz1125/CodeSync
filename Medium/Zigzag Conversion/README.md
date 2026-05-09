@@ -69,7 +69,7 @@ s consists of English letters (lower-case and upper-case), ',' and '.'.
 
 ## Language
 
-1/6
+java
 
 ---
 

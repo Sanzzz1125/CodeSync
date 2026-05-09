@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Longest Balanced Substring I
+### Longest Balanced Substring II
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find Peak Element
+### Maximum Gap
 
 ---
 

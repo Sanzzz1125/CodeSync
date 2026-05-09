@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Pascal's Triangle II
+### Best Time to Buy and Sell Stock
 
 ---
 

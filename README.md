@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Sum of Digits of String After Convert
+### Three Divisors
 
 ---
 

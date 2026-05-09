@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Double a Number Represented as a Linked List
+### Type of Triangle
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

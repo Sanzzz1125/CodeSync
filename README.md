@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Water and Jug Problem
+### Ransom Note
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

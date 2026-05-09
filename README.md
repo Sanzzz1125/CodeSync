@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Largest Even Number
+### Count Residue Prefixes
 
 ---
 

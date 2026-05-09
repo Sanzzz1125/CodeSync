@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Longest Balanced Subarray I
+### Longest Balanced Subarray II
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Hard |
 | Language | java |
 
 ---

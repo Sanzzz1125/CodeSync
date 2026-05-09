@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Contains Duplicate
+### Contains Duplicate II
 
 ---
 

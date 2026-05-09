@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find First and Last Position of Element in Sorted Array
+### Search Insert Position
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

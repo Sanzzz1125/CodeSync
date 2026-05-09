@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Intersection of Two Linked Lists
+### Find Peak Element
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

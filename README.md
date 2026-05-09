@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Majority Element II
+### Power of Two
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

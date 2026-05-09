@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### First Unique Character in a String
+### Find the Difference
 
 ---
 

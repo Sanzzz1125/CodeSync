@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Fibonacci Number
+### Find Largest Value in Each Tree Row
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

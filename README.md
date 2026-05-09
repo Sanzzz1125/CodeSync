@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Count Asterisks
+### Check if Matrix Is X-Matrix
 
 ---
 

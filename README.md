@@ -2,7 +2,7 @@
 
 ## Latest Synced Problem
 
-- Jump Game
+- String to Integer (atoi)
 
 ## Last Difficulty
 

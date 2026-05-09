@@ -14,7 +14,7 @@
 
 ## Problem Link
 
-https://leetcode.com/problems/3sum
+https://leetcode.com/problems/3sum/description/
 
 ---
 
@@ -25,6 +25,7 @@ Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]]
 Notice that the solution set must not contain duplicate triplets.
 
  
+
 Example 1:
 
 Input: nums = [-1,0,1,2,-1,-4]
@@ -52,17 +53,17 @@ Explanation: The only possible triplet sums up to 0.
 
 
  
+
 Constraints:
 
-
-	3 <= nums.length <= 3000
-	-105 <= nums[i] <= 105
+3 <= nums.length <= 3000
+-105 <= nums[i] <= 105
 
 ---
 
 ## Language
 
-java
+1/6
 
 ---
 

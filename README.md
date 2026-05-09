@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Reverse Only Letters
+### Minimum Add to Make Parentheses Valid
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

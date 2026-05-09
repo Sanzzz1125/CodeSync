@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Minimum Operations to Make Array Sum Divisible by K
+### Check if Any Element Has Prime Frequency
 
 ---
 

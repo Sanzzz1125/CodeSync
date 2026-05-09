@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find the Index of the First Occurrence in a String
+### Longest Valid Parentheses
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Hard |
 | Language | java |
 
 ---

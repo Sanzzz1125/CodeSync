@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Baseball Game
+### Binary Number with Alternating Bits
 
 ---
 

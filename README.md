@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Check if Two Chessboard Squares Have the Same Color
+### Convert Date to Binary
 
 ---
 

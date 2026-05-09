@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Number of 1 Bits
+### House Robber
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

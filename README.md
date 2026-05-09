@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Search Insert Position
+### Valid Sudoku
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Maximum Level Sum of a Binary Tree
+### Maximum Number of Balloons
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

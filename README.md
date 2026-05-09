@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Second Largest Digit in a String
+### Count Nice Pairs in an Array
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

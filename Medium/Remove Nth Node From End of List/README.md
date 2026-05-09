@@ -1,22 +1,25 @@
 # Remove Nth Node From End of List
 
-        ## Difficulty
-        Medium
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
-        ## Topics
+---
 
-        - Linked List
+## Topics
+
+- Linked List
 - Two Pointers
 
-        ## Problem Link
+---
 
-        https://leetcode.com/problems/remove-nth-node-from-end-of-list
+## Problem Link
 
-        ---
+https://leetcode.com/problems/remove-nth-node-from-end-of-list
 
-        ## Problem Statement
+---
 
-        Given the head of a linked list, remove the nth node from the end of the list and return its head.
+## Problem Statement
+
+Given the head of a linked list, remove the nth node from the end of the list and return its head.
 
  
 Example 1:
@@ -50,9 +53,12 @@ Constraints:
  
 Follow up: Could you do this in one pass?
 
-        ---
+---
 
-        ## Language
+## Language
 
-        java
-        
+java
+
+---
+
+Powered by SyncLeetX ⚡

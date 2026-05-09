@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Odd Even Linked List
+### Counting Bits
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

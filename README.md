@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Minimum Add to Make Parentheses Valid
+### Range Sum of BST
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

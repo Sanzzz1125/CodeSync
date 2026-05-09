@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find the Integer Added to Array I
+### Find the Number of Good Pairs I
 
 ---
 

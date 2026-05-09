@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Largest Number At Least Twice of Others
+### Prime Number of Set Bits in Binary Representation
 
 ---
 

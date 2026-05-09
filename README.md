@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Maximum 69 Number
+### Rank Transform of an Array
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Delete the Middle Node of a Linked List
+### Find First Palindromic String in the Array
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

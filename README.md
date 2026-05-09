@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### N-ary Tree Postorder Traversal
+### Maximum Product of Three Numbers
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Reorder List
+### Binary Tree Preorder Traversal
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Add Strings
+### N-ary Tree Level Order Traversal
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | java |
 
 ---

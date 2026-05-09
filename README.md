@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Two Sum
+### Add Two Numbers
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Easy |
+| Difficulty | Medium |
 | Language | 1/6 |
 
 ---

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Reverse Substrings Between Each Pair of Parentheses
+### Subtract the Product and Sum of Digits of an Integer
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

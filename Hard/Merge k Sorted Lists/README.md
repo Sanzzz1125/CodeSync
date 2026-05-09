@@ -1,11 +1,24 @@
 # Merge k Sorted Lists
-        ## Difficulty
-        Hard
-        ## Problem Link
-        https://leetcode.com/problems/merge-k-sorted-lists
-        ---
-        ## Problem Statement
-        You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red)
+
+---
+
+## Topics
+
+
+
+---
+
+## Problem Link
+
+https://leetcode.com/problems/merge-k-sorted-lists
+
+---
+
+## Problem Statement
+
+You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.
 
 Merge all the linked-lists into one sorted linked-list and return it.
 
@@ -46,7 +59,13 @@ Constraints:
 	-104 <= lists[i][j] <= 104
 	lists[i] is sorted in ascending order.
 	The sum of lists[i].length will not exceed 104.
-        ---
-        ## Language
-        java
-        
+
+---
+
+## Language
+
+java
+
+---
+
+Powered by SyncLeetX ⚡

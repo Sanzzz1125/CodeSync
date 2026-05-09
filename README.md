@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Binary Watch
+### Convert a Number to Hexadecimal
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Reverse Linked List II
+### Binary Tree Inorder Traversal
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

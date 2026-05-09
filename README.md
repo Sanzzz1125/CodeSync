@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Stone Game
+### Boats to Save People
 
 ---
 

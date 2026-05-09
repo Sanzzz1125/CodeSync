@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Binary Tree Inorder Traversal
+### Same Tree
 
 ---
 

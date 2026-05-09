@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Minimize String Length
+### Check if The Number is Fascinating
 
 ---
 

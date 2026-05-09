@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Median of Two Sorted Arrays
+### Zigzag Conversion
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Hard |
+| Difficulty | Medium |
 | Language | java |
 
 ---

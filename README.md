@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find the Number of Good Pairs I
+### Clear Digits
 
 ---
 

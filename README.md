@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Capacity To Ship Packages Within D Days
+### Partition Array Into Three Parts With Equal Sum
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

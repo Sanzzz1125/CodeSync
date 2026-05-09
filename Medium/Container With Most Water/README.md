@@ -1,11 +1,24 @@
 # Container With Most Water
-        ## Difficulty
-        Medium
-        ## Problem Link
-        https://leetcode.com/problems/container-with-most-water
-        ---
-        ## Problem Statement
-        You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
+
+---
+
+## Topics
+
+
+
+---
+
+## Problem Link
+
+https://leetcode.com/problems/container-with-most-water
+
+---
+
+## Problem Statement
+
+You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
 
 Find two lines that together with the x-axis form a container, such that the container contains the most water.
 
@@ -34,7 +47,13 @@ Constraints:
 	n == height.length
 	2 <= n <= 105
 	0 <= height[i] <= 104
-        ---
-        ## Language
-        java
-        
+
+---
+
+## Language
+
+java
+
+---
+
+Powered by SyncLeetX ⚡

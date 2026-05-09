@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Maximum Product of Three Numbers
+### Average of Levels in Binary Tree
 
 ---
 

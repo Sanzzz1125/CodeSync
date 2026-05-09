@@ -57,7 +57,7 @@ Both list1 and list2 are sorted in non-decreasing order.
 
 ## Language
 
-1/6
+java
 
 ---
 

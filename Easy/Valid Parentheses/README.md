@@ -70,7 +70,7 @@ s consists of parentheses only '()[]{}'.
 
 ## Language
 
-1/6
+java
 
 ---
 

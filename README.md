@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Type of Triangle
+### Apple Redistribution into Boxes
 
 ---
 

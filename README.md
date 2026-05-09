@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Minimum Moves to Reach Target Score
+### Keep Multiplying Found Values by Two
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

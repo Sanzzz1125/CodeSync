@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Prime Number of Set Bits in Binary Representation
+### Toeplitz Matrix
 
 ---
 

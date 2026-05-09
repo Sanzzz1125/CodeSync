@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Search a 2D Matrix II
+### Valid Anagram
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

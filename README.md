@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### To Lower Case
+### Find Pivot Index
 
 ---
 

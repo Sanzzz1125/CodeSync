@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Count Negative Numbers in a Sorted Matrix
+### Lucky Numbers in a Matrix
 
 ---
 

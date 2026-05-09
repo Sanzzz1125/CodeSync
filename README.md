@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find Largest Value in Each Tree Row
+### Detect Capital
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

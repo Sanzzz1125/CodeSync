@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Counting Bits
+### Power of Four
 
 ---
 

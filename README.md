@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Bulb Switcher
+### Power of Three
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

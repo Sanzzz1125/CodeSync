@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Keys and Rooms
+### Backspace String Compare
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

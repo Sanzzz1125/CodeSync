@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Check Balanced String
+### Transformed Array
 
 ---
 

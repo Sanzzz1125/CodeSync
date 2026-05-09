@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Island Perimeter
+### License Key Formatting
 
 ---
 

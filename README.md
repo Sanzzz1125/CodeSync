@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Minimum Number of Days to Make m Bouquets
+### Can Make Arithmetic Progression From Sequence
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Property | Value |
 |---|---|
-| Difficulty | Medium |
+| Difficulty | Easy |
 | Language | java |
 
 ---

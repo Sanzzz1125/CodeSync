@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Sum of Good Numbers
+### Transform Array by Parity
 
 ---
 

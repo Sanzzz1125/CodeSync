@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Find Indices of Stable Mountains
+### Check Balanced String
 
 ---
 

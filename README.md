@@ -18,7 +18,7 @@
 
 ## Latest Solved Problem
 
-### Number of Senior Citizens
+### Remove Trailing Zeros From a String
 
 ---
 

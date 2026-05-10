@@ -10,7 +10,27 @@
 
 ---
 
-## Latest Solved Problem
+## 👤 LeetCode User
+
+Sanketh1125
+
+---
+
+## 🔥 Latest Solved Problem
 
 Convert Sorted Array to Binary Search Tree
 
+---
+
+## 📊 Statistics
+
+| Difficulty | Solved |
+|---|---|
+| Easy | 224 |
+| Medium | 112 |
+| Hard | 7 |
+| Total | 343 |
+
+---
+
+Powered by SyncLeetX ⚡

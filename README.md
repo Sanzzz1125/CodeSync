@@ -25,10 +25,10 @@ Minimum Depth of Binary Tree
 
 | Difficulty | Solved |
 |---|---|
-| Easy | 222 |
+| Easy | 223 |
 | Medium | 110 |
 | Hard | 7 |
-| Total | 339 |
+| Total | 340 |
 
 ---
 

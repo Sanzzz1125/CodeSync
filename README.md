@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Convert Sorted Array to Binary Search Tree
+Pow(x, n)
 
 ---
 

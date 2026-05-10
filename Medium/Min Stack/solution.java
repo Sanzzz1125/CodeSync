@@ -3,15 +3,15 @@ class MinStack {
         int min;
         int val;
         Node next;
+        
         Node(int val,int min){
             this.min=min;
             this.val=val;
         }
     }
     public Node head;
-    public MinStack() {
-        
-    }
+
+    public MinStack(){}
     
     public void push(int val) {
         if(head==null){

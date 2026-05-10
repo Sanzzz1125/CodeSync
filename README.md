@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Pow(x, n)
+Divide Two Integers
 
 ---
 

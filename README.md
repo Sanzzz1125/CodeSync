@@ -12,5 +12,5 @@
 
 ## Latest Solved Problem
 
-Symmetric Tree
+Pow(x, n)
 

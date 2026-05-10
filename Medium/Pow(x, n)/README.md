@@ -7,4 +7,4 @@ Medium
 Math, Recursion
 
 ## Problem Link
-https://leetcode.com/problems/powx-n
+https://leetcode.com/problems/powx-n/

@@ -17,8 +17,7 @@
 ---
 
 ## Latest Solved Problem
-
-### Rotate List
+Minimum Depth of Binary Tree
 
 ---
 
@@ -26,10 +25,10 @@
 
 | Difficulty | Solved |
 |---|---|
-| Easy | 221 |
+| Easy | 222 |
 | Medium | 110 |
 | Hard | 7 |
-| Total | 338 |
+| Total | 339 |
 
 ---
 

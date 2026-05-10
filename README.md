@@ -1,8 +1,8 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-342-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-343-blue)
 
-![Easy](https://img.shields.io/badge/Easy-223-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-224-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-112-yellow)
 
@@ -12,5 +12,5 @@
 
 ## Latest Solved Problem
 
-Pow(x, n)
+Convert Sorted Array to Binary Search Tree
 

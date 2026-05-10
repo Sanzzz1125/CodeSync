@@ -1,44 +1,16 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-338-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-342-blue)
 
-![Easy](https://img.shields.io/badge/Easy-221-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-223-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-110-yellow)
+![Medium](https://img.shields.io/badge/Medium-112-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
 ---
 
-## LeetCode User
-
-### Sanketh1125
-
----
-
 ## Latest Solved Problem
-Minimum Depth of Binary Tree
 
----
+Divide Two Integers
 
-## LeetCode Statistics
-
-| Difficulty | Solved |
-|---|---|
-| Easy | 223 |
-| Medium | 110 |
-| Hard | 7 |
-| Total | 340 |
-
----
-
-## Last Synced Problem
-
-| Property | Value |
-|---|---|
-| Difficulty | Medium |
-| Language | java |
-
----
-
-Powered by SyncLeetX ⚡

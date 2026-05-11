@@ -1,8 +1,8 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-347-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-348-blue)
 
-![Easy](https://img.shields.io/badge/Easy-226-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-227-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-114-yellow)
 
@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Defuse the Bomb
+Grumpy Bookstore Owner
 
 ---
 
@@ -26,10 +26,10 @@ Defuse the Bomb
 
 | Difficulty | Solved |
 |---|---|
-| Easy | 226 |
+| Easy | 227 |
 | Medium | 114 |
 | Hard | 7 |
-| Total | 347 |
+| Total | 348 |
 
 ---
 

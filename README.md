@@ -18,7 +18,7 @@
 
 ## 🔥 Latest Solved Problem
 
-Subsets | Practice | GeeksforGeeks
+Rotate a Linked List | Practice | GeeksforGeeks
 
 ---
 

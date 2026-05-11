@@ -18,7 +18,7 @@
 
 ## 🔥 Latest Solved Problem
 
-Rotate a Linked List | Practice | GeeksforGeeks
+Tower Of Hanoi | Practice | GeeksforGeeks
 
 ---
 

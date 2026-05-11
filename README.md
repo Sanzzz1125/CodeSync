@@ -18,7 +18,7 @@
 
 ## 🔥 Latest Solved Problem
 
-Binary Tree K level sum | Practice | GeeksforGeeks
+Tower Of Hanoi | Practice | GeeksforGeeks
 
 ---
 

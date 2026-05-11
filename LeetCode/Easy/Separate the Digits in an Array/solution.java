@@ -11,10 +11,8 @@ class Solution {
             }
             n += cnt-1;
         }
-
         int arr[] = new int[n];
         n=n-1;
-
         for(int i=nums.length-1;i>=0;i--){
             int temp = nums[i];
             int cnt=0;
@@ -23,7 +21,6 @@ class Solution {
                 temp /= 10;
             }
         }
-        
         return arr;
     }
 }

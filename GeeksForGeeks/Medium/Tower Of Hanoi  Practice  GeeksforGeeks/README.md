@@ -6,57 +6,8 @@
 
 ## Topics
 
-- Courses
 - Tutorials
 - Practice
-- Jobs
-- My Profile
-- Change Language
-- Menu
-- Ask A Doubt
-- My Doubts
-- Problem
-- Editorial
-- Submissions
-- Comments
-- Tower Of Hanoi
-- FlipkartMicrosoft
-- Flipkart
-- Microsoft
-- RecursionAlgorithms
-- Recursion
-- Algorithms
-- Discussions
-- Most Recent
-- Comment Anonymously
-- hi
-- Reply
-- HqDlJezC
-- business emails
-- V Ganesh
-- Anmol Singh
-- Akash Babu
-- Nitesh Kumar Sharma
-- Output Window
-- Compilation Results
-- Custom Input
-- Suggest Feedback
-- Test Cases Passed
-- Time Taken
-- Get Minimum Squares
-- Start Timer
-- class
-- Solution
-- public
-- int
-- towerOfHanoi
-- n
-- from
-- to
-- aux
-- return
-- Math
-- pow
 
 ---
 

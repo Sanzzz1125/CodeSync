@@ -27,9 +27,9 @@ Grumpy Bookstore Owner
 | Difficulty | Solved |
 |---|---|
 | Easy | 227 |
-| Medium | 114 |
+| Medium | 115 |
 | Hard | 7 |
-| Total | 348 |
+| Total | 349 |
 
 ---
 

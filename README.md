@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Separate the Digits in an Array
+Maximum Points You Can Obtain from Cards
 
 ---
 

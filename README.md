@@ -1,8 +1,8 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-345-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-346-blue)
 
-![Easy](https://img.shields.io/badge/Easy-225-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-226-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-113-yellow)
 
@@ -26,10 +26,10 @@ Separate the Digits in an Array
 
 | Difficulty | Solved |
 |---|---|
-| Easy | 225 |
+| Easy | 226 |
 | Medium | 113 |
 | Hard | 7 |
-| Total | 345 |
+| Total | 346 |
 
 ---
 

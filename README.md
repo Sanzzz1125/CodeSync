@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Maximum Number of Vowels in a Substring of Given Length
+Separate the Digits in an Array
 
 ---
 

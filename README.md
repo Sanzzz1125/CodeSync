@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Grumpy Bookstore Owner
+Sliding Window Maximum
 
 ---
 

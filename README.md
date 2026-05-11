@@ -1,10 +1,10 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-348-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-349-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-227-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-114-yellow)
+![Medium](https://img.shields.io/badge/Medium-115-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 

@@ -18,7 +18,7 @@
 
 ## 🔥 Latest Solved Problem
 
-Perfect Binary Tree | Practice | GeeksforGeeks
+Binary Tree K level sum | Practice | GeeksforGeeks
 
 ---
 

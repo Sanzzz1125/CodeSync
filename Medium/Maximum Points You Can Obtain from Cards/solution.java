@@ -5,6 +5,7 @@ class Solution {
         for(int i=0;i<k;i++){
             sum += cardPoints[i];
         }
+        if(k==n) return sum;
         max = Math.max(sum,max);
         for(int i=k-1,j=n-1;i>=0;i--,j--){
             sum = sum + cardPoints[j] - cardPoints[i];

@@ -6,8 +6,6 @@
 
 ## Topics
 
-- Flipkart
-- Microsoft
 - Recursion
 - Algorithms
 

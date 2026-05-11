@@ -6,12 +6,11 @@
 
 ## Topics
 
-- Start Timer
-- 1
-- 2
-- 3
-- 4
-- 5
+- Back to Explore Page
+- Tower Of Hanoi
+- Try more examples
+- Expected Complexities
+- RecursionAlgorithms
 
 ---
 

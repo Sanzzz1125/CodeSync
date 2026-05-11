@@ -13,7 +13,7 @@
 
 ## Problem Link
 
-https://leetcode.com/problems/grumpy-bookstore-owner/
+https://leetcode.com/problems/grumpy-bookstore-owner
 
 ---
 

@@ -13,7 +13,7 @@
 
 ## Problem Link
 
-https://leetcode.com/problems/defuse-the-bomb
+https://leetcode.com/problems/defuse-the-bomb/
 
 ---
 

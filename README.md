@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Maximum Points You Can Obtain from Cards
+Find All Anagrams in a String
 
 ---
 

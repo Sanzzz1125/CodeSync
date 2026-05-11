@@ -22,7 +22,6 @@ class Solution {
                 temp /= 10;
             }
         }
-        
         return arr;
     }
 }

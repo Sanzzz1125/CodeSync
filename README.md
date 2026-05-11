@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Divide Two Integers
+Maximum Average Subarray I
 
 ---
 

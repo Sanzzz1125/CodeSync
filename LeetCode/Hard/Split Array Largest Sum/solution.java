@@ -7,6 +7,7 @@ class Solution {
         }
 
         int res=0;
+        
         while(l<=h){
             int mid = l+(h-l)/2;
 
@@ -23,6 +24,7 @@ class Solution {
     public boolean isPossible(int nums[], int k, int mid){
         int cnt=1;
         int sum=0;
+
         for(int ele: nums){
             sum += ele;
             if(sum>mid){
@@ -30,6 +32,7 @@ class Solution {
                 sum = ele;
             }
         }
+
         return cnt<=k;
     }
 }

@@ -6,11 +6,8 @@ class Solution {
             sum += cardPoints[i];
         }
         max = Math.max(sum,max);
-        int i=k-1,j=n-1;
-        while(i>=0){
+        for(int i=k-1,j=n-1;i>=0;i--,j--){
             sum = sum + cardPoints[j] - cardPoints[i];
-            i--;
-            j--;
             max = Math.max(max,sum);
         }
         return max;

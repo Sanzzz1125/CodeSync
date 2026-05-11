@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Find All Anagrams in a String
+Defuse the Bomb
 
 ---
 

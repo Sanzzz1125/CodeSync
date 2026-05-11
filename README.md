@@ -1,8 +1,8 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-343-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-344-blue)
 
-![Easy](https://img.shields.io/badge/Easy-224-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-225-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-112-yellow)
 
@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Maximum Average Subarray I
+Maximum Number of Vowels in a Substring of Given Length
 
 ---
 
@@ -26,10 +26,10 @@ Maximum Average Subarray I
 
 | Difficulty | Solved |
 |---|---|
-| Easy | 224 |
+| Easy | 225 |
 | Medium | 112 |
 | Hard | 7 |
-| Total | 343 |
+| Total | 344 |
 
 ---
 

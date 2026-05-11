@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Separate the Digits in an Array
+Defuse the Bomb
 
 ---
 

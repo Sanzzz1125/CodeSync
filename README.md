@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Split Array Largest Sum
+Separate the Digits in an Array
 
 ---
 

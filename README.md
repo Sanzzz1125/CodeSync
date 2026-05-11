@@ -1,12 +1,12 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-349-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-350-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-227-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-115-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-7-red)
+![Hard](https://img.shields.io/badge/Hard-8-red)
 
 ---
 
@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Sliding Window Maximum
+Separate the Digits in an Array
 
 ---
 
@@ -28,8 +28,8 @@ Sliding Window Maximum
 |---|---|
 | Easy | 227 |
 | Medium | 115 |
-| Hard | 7 |
-| Total | 349 |
+| Hard | 8 |
+| Total | 350 |
 
 ---
 

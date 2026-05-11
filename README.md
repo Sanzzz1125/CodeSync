@@ -1,10 +1,10 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-344-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-345-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-225-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-112-yellow)
+![Medium](https://img.shields.io/badge/Medium-113-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
@@ -27,9 +27,9 @@ Maximum Number of Vowels in a Substring of Given Length
 | Difficulty | Solved |
 |---|---|
 | Easy | 225 |
-| Medium | 112 |
+| Medium | 113 |
 | Hard | 7 |
-| Total | 344 |
+| Total | 345 |
 
 ---
 

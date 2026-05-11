@@ -1,7 +1,6 @@
 class Solution {
     public int[] separateDigits(int[] nums) {
         int n = nums.length;
-
         for(int i=0;i<nums.length;i++){
             int temp = nums[i];
             int cnt=0;

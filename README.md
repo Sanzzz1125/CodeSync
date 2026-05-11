@@ -18,7 +18,7 @@
 
 ## 🔥 Latest Solved Problem
 
-Tower Of Hanoi | Practice | GeeksforGeeks
+Subsets | Practice | GeeksforGeeks
 
 ---
 

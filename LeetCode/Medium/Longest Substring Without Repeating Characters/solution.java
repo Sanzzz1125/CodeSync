@@ -3,6 +3,7 @@ class Solution {
         HashMap<Character, Integer> map = new HashMap<>();
         int left = 0;
         int maxLen = 0;
+
         for (int right=0; right<s.length(); right++) {
             char c = s.charAt(right);
             if (map.containsKey(c) && map.get(c)>=left) {
@@ -11,6 +12,7 @@ class Solution {
             map.put(c,right);
             maxLen = Math.max(maxLen, right-left+1);
         }
+        
         return maxLen;
     }
 }

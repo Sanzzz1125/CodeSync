@@ -1,10 +1,10 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-350-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-351-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-227-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-115-yellow)
+![Medium](https://img.shields.io/badge/Medium-116-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-8-red)
 
@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Two Sum
+Minimum Size Subarray Sum
 
 ---
 
@@ -27,9 +27,9 @@ Two Sum
 | Difficulty | Solved |
 |---|---|
 | Easy | 227 |
-| Medium | 115 |
+| Medium | 116 |
 | Hard | 8 |
-| Total | 350 |
+| Total | 351 |
 
 ---
 

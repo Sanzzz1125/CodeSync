@@ -1,10 +1,10 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-352-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-353-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-227-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-117-yellow)
+![Medium](https://img.shields.io/badge/Medium-118-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-8-red)
 
@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Longest Repeating Character Replacement
+Fruit Into Baskets
 
 ---
 
@@ -27,9 +27,9 @@ Longest Repeating Character Replacement
 | Difficulty | Solved |
 |---|---|
 | Easy | 227 |
-| Medium | 117 |
+| Medium | 118 |
 | Hard | 8 |
-| Total | 352 |
+| Total | 353 |
 
 ---
 

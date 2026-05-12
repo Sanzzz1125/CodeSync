@@ -1,10 +1,10 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-354-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-355-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-227-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-119-yellow)
+![Medium](https://img.shields.io/badge/Medium-120-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-8-red)
 
@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Count Number of Nice Subarrays
+Binary Subarrays With Sum
 
 ---
 
@@ -27,9 +27,9 @@ Count Number of Nice Subarrays
 | Difficulty | Solved |
 |---|---|
 | Easy | 227 |
-| Medium | 119 |
+| Medium | 120 |
 | Hard | 8 |
-| Total | 354 |
+| Total | 355 |
 
 ---
 

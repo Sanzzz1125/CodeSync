@@ -1,10 +1,10 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-351-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-352-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-227-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-116-yellow)
+![Medium](https://img.shields.io/badge/Medium-117-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-8-red)
 
@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Longest Substring Without Repeating Characters
+Longest Repeating Character Replacement
 
 ---
 
@@ -27,9 +27,9 @@ Longest Substring Without Repeating Characters
 | Difficulty | Solved |
 |---|---|
 | Easy | 227 |
-| Medium | 116 |
+| Medium | 117 |
 | Hard | 8 |
-| Total | 351 |
+| Total | 352 |
 
 ---
 

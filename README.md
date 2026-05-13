@@ -2,25 +2,25 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-358-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
 
-![Easy](https://img.shields.io/badge/Easy-227-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-121-yellow)
+![Medium](https://img.shields.io/badge/Medium-0-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-10-red)
+![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ---
 
 ## 👤 LeetCode User
 
-Sanketh1125
+N/A
 
 ---
 
 ## 🔥 Latest Solved Problem
 
-Min Stack
+None
 
 ---
 
@@ -38,7 +38,7 @@ Min Stack
 
 ## 🔥 Latest GFG Problem
 
-Tower Of Hanoi | Practice | GeeksforGeeks
+ZigZag Tree Traversal | Practice | GeeksforGeeks
 
 ---
 

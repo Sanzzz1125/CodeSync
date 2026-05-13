@@ -1,12 +1,12 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-355-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-356-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-227-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-120-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-8-red)
+![Hard](https://img.shields.io/badge/Hard-9-red)
 
 ---
 
@@ -18,7 +18,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Binary Subarrays With Sum
+Minimum Window Substring
 
 ---
 
@@ -28,8 +28,8 @@ Binary Subarrays With Sum
 |---|---|
 | Easy | 227 |
 | Medium | 120 |
-| Hard | 8 |
-| Total | 355 |
+| Hard | 9 |
+| Total | 356 |
 
 ---
 

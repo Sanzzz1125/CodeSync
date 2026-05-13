@@ -24,12 +24,13 @@ Count Array Pairs Divisible by K
 
 ## 🟢 GeeksForGeeks Stats
 
-| Difficulty | Solved |
-|---|---|
-| Easy | 0 |
-| Medium | 0 |
-| Hard | 0 |
-| Total | 0 |
+![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
+
+![Easy](https://img.shields.io/badge/Easy-4-brightgreen)
+
+![Medium](https://img.shields.io/badge/Medium-0-yellow)
+
+![Hard](https://img.shields.io/badge/Hard-4-red)
 
 ---
 

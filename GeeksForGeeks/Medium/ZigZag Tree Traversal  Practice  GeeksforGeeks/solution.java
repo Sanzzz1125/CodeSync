@@ -16,7 +16,9 @@ class Solution {
         ArrayList<Integer> finalList = new ArrayList<>();
         if(root == null) return finalList;
         Queue<Node> q = new LinkedList<>();
+        
         q.add(root);
+        
         int i=0;
         while(!q.isEmpty()){
             i++;

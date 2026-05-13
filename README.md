@@ -27,9 +27,9 @@ Longest Substring with K Uniques | Practice | GeeksforGeeks
 | Difficulty | Solved |
 |---|---|
 | Easy | 0 |
-| Medium | 2 |
+| Medium | 3 |
 | Hard | 0 |
-| Total | 2 |
+| Total | 3 |
 
 ---
 

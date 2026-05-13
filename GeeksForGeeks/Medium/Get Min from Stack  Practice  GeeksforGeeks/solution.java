@@ -32,18 +32,15 @@ class SpecialStack {
             head = head.next;
         }
     }
-
     public int peek() {
         if (head == null) {
             return -1;
         }
         return head.val;
     }
-
     boolean isEmpty() {
         return head == null;
     }
-
     public int getMin() {
         if (head == null) {
             return -1;

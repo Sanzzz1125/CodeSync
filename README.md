@@ -28,11 +28,11 @@ Min Stack
 
 ![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
 
-![Easy](https://img.shields.io/badge/Easy-3-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-0-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-3-red)
+![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ---
 

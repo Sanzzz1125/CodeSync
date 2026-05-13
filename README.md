@@ -1,24 +1,24 @@
 # LeetCode Practice 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-358-blue)
 
-![Easy](https://img.shields.io/badge/Easy-undefined-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-227-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-undefined-yellow)
+![Medium](https://img.shields.io/badge/Medium-121-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-undefined-red)
+![Hard](https://img.shields.io/badge/Hard-10-red)
 
 ---
 
 ## 👤 LeetCode User
 
-
+Sanketh1125
 
 ---
 
 ## 🔥 Latest Solved Problem
 
-Count pairs in array divisible by k | Practice | GeeksforGeeks
+Count Array Pairs Divisible by K
 
 ---
 
@@ -26,10 +26,10 @@ Count pairs in array divisible by k | Practice | GeeksforGeeks
 
 | Difficulty | Solved |
 |---|---|
-| Easy | undefined |
-| Medium | undefined |
-| Hard | undefined |
-| Total | 0 |
+| Easy | 227 |
+| Medium | 121 |
+| Hard | 10 |
+| Total | 358 |
 
 ---
 

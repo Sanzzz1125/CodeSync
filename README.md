@@ -1,5 +1,7 @@
 # CodeSyncHub 🚀
 
+## 🟢 LeetCode Stats
+
 ![Total Solved](https://img.shields.io/badge/Total_Solved-358-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-227-brightgreen)
@@ -24,13 +26,13 @@ Count Array Pairs Divisible by K
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-4-blue)
 
-![Easy](https://img.shields.io/badge/Easy-4-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-0-yellow)
+![Medium](https://img.shields.io/badge/Medium-4-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-4-red)
+![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ---
 

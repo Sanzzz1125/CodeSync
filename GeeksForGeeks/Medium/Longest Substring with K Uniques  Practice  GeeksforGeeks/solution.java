@@ -6,6 +6,7 @@ class Solution {
         int maxLen = -1, left = 0;
         
         for(int right = 0;right<s.length(); right++){
+            
             char ch = s.charAt(right);
             
             map.put(ch,map.getOrDefault(ch,0)+1);
@@ -24,6 +25,7 @@ class Solution {
                 maxLen = Math.max(maxLen, right - left + 1);
             }
         }
+        
         return maxLen;
     }
 }

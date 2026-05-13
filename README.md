@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Count Array Pairs Divisible by K
+Min Stack
 
 ---
 

@@ -27,9 +27,9 @@ Count Array Pairs Divisible by K
 | Difficulty | Solved |
 |---|---|
 | Easy | 0 |
-| Medium | 4 |
+| Medium | 0 |
 | Hard | 0 |
-| Total | 4 |
+| Total | 0 |
 
 ---
 

@@ -1,24 +1,24 @@
 # CodeSyncHub 🚀
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-358-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
 
-![Easy](https://img.shields.io/badge/Easy-227-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-undefined-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-121-yellow)
+![Medium](https://img.shields.io/badge/Medium-undefined-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-10-red)
+![Hard](https://img.shields.io/badge/Hard-undefined-red)
 
 ---
 
 ## 👤 LeetCode User
 
-Sanketh1125
+
 
 ---
 
 ## 🔥 Latest Solved Problem
 
-Count Array Pairs Divisible by K
+Longest Substring with K Uniques | Practice | GeeksforGeeks
 
 ---
 
@@ -27,15 +27,15 @@ Count Array Pairs Divisible by K
 | Difficulty | Solved |
 |---|---|
 | Easy | 0 |
-| Medium | 0 |
+| Medium | 1 |
 | Hard | 0 |
-| Total | 0 |
+| Total | 1 |
 
 ---
 
 ## 🔥 Latest GFG Problem
 
-None
+Longest Substring with K Uniques | Practice | GeeksforGeeks
 
 ---
 

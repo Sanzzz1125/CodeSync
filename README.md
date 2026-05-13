@@ -12,7 +12,7 @@
 
 ## 👤 LeetCode User
 
-
+N/A
 
 ---
 
@@ -27,9 +27,9 @@ Longest Substring with K Uniques | Practice | GeeksforGeeks
 | Difficulty | Solved |
 |---|---|
 | Easy | 0 |
-| Medium | 3 |
-| Hard | 0 |
-| Total | 3 |
+| Medium | 4 |
+| Hard | 0} |
+| Total | 4 |
 
 ---
 

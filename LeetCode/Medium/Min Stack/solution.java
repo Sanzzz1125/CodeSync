@@ -10,7 +10,6 @@ class MinStack {
         }
     }
     public Node head;
-
     public MinStack(){}
     
     public void push(int val) {
@@ -25,12 +24,10 @@ class MinStack {
     
     public void pop() {
         head=head.next;
-    }
-    
+    } 
     public int top() {
         return head.val;
     }
-    
     public int getMin() {
         return head.min;
     }

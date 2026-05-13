@@ -38,7 +38,7 @@ Roman to Integer
 
 ## 🔥 Latest GFG Problem
 
-ZigZag Tree Traversal | Practice | GeeksforGeeks
+Subsets | Practice | GeeksforGeeks
 
 ---
 

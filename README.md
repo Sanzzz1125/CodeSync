@@ -38,7 +38,7 @@ Min Stack
 
 ## 🔥 Latest GFG Problem
 
-Get Min from Stack | Practice | GeeksforGeeks
+Ways To Tile A Floor | Practice | GeeksforGeeks
 
 ---
 

@@ -2,6 +2,7 @@ class Solution {
     public long countPairs(int[] nums, int k) {
         HashMap<Integer, Integer> map = new HashMap<>();
         long ans=0;
+
         for(int num : nums){
             int g = gcd(num,k);
 
@@ -12,6 +13,7 @@ class Solution {
             }
             map.put(g,(map.getOrDefault(g,0)+1));
         }
+
         return ans;
     }
 
@@ -21,6 +23,7 @@ class Solution {
             b = a % b;
             a = temp;
         }
+        
         return a;
     }
 }

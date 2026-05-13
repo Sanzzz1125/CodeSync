@@ -14,12 +14,10 @@ class Solution {
     ArrayList<Integer> zigZagTraversal(Node root) {
         // code here
         ArrayList<Integer> finalList = new ArrayList<>();
-        
         if(root == null) return finalList;
         Queue<Node> q = new LinkedList<>();
         
         q.add(root);
-        
         int i=0;
         
         while(!q.isEmpty()){
@@ -35,7 +33,6 @@ class Solution {
                 }
             }
             if(i%2==0) Collections.reverse(list);
-            
             if(!list.isEmpty()) finalList.addAll(list);
         }
         return finalList;

@@ -38,7 +38,7 @@ Min Stack
 
 ## 🔥 Latest GFG Problem
 
-Ways To Tile A Floor | Practice | GeeksforGeeks
+Tower Of Hanoi | Practice | GeeksforGeeks
 
 ---
 

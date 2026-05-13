@@ -12,9 +12,9 @@ class Node {
 
 class Solution {
     ArrayList<Integer> zigZagTraversal(Node root) {
-        // code here
         ArrayList<Integer> finalList = new ArrayList<>();
         if(root == null) return finalList;
+        
         Queue<Node> q = new LinkedList<>();
         
         q.add(root);

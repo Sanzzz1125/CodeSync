@@ -48,6 +48,7 @@ class SpecialStack {
         if (head == null) {
             return -1;
         }
+        
         return head.min;
     }
 }

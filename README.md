@@ -1,4 +1,4 @@
-# LeetCode Practice 🚀
+# CodeSyncHub 🚀
 
 ![Total Solved](https://img.shields.io/badge/Total_Solved-358-blue)
 
@@ -22,14 +22,20 @@ Count Array Pairs Divisible by K
 
 ---
 
-## 📊 Statistics
+## 🟢 GeeksForGeeks Stats
 
 | Difficulty | Solved |
 |---|---|
-| Easy | 227 |
-| Medium | 121 |
-| Hard | 10 |
-| Total | 358 |
+| Easy | 0 |
+| Medium | 0 |
+| Hard | 0 |
+| Total | 0 |
+
+---
+
+## 🔥 Latest GFG Problem
+
+None
 
 ---
 

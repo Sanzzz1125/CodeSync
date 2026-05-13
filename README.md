@@ -38,7 +38,7 @@ Min Stack
 
 ## 🔥 Latest GFG Problem
 
-Longest Substring with K Uniques | Practice | GeeksforGeeks
+Get Min from Stack | Practice | GeeksforGeeks
 
 ---
 

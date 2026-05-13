@@ -31,8 +31,10 @@ class Solution {
                 }
             }
             if(i%2==0) Collections.reverse(list);
+            
             if(!list.isEmpty()) finalList.addAll(list);
         }
+        
         return finalList;
     }
 }

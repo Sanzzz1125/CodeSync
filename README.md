@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Baseball Game
+Next Greater Element I
 
 ---
 

@@ -40,7 +40,7 @@ Next Greater Element I
 
 ## 🔥 Latest GFG Problem
 
-Next Greater Element | Practice | GeeksforGeeks
+Count Leaves in Binary Tree | Practice | GeeksforGeeks
 
 ---
 

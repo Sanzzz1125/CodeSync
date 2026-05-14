@@ -10,10 +10,9 @@ class Solution {
         Stack<Character> stk = new Stack<>();
 
         for(int i=0;i<s.length();i++){
+            
             char ch = s.charAt(i);
-
             freq[ch - 'a']--;
-
             if(visited[ch - 'a']) continue;
 
             while(!stk.isEmpty() && ch < stk.peek() && freq[stk.peek() - 'a'] > 0){
@@ -27,6 +26,7 @@ class Solution {
         for (char ch : stk) {
             sb.append(ch);
         }
+
         return sb.toString();
     }
 }

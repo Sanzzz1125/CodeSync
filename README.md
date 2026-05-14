@@ -32,7 +32,7 @@ Roman to Integer
 
 ## 🔥 Latest GFG Problem
 
-Subsets | Practice | GeeksforGeeks
+Implement Lower Bound | Practice | GeeksforGeeks
 
 ---
 

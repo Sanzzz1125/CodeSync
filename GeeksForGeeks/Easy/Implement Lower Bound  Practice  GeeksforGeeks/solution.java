@@ -4,6 +4,7 @@ class Solution {
         int l=0,h=arr.length-1, ans=arr.length;
         
         while(l<=h){
+            
             int m = l+(h-l)/2;
             if(arr[m]>=target){
                 ans = m;
@@ -12,7 +13,6 @@ class Solution {
                 l=m+1;
             }
         }
-        
         return ans;
     }
 }

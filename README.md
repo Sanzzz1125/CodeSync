@@ -26,7 +26,7 @@ Remove Duplicate Letters
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-45-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-46-blue)
 
 ![Basic](https://img.shields.io/badge/Basic-11-lightgrey)
 
@@ -34,13 +34,13 @@ Remove Duplicate Letters
 
 ![Medium](https://img.shields.io/badge/Medium-11-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-0-red)
+![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ---
 
 ## 🔥 Latest GFG Problem
 
-Count Leaves in Binary Tree | Practice | GeeksforGeeks
+Smallest window containing all characters | Practice | GeeksforGeeks
 
 ---
 

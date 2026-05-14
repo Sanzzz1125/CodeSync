@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Check if Array is Good
+Remove Duplicate Letters
 
 ---
 

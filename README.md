@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Roman to Integer
+Remove All Adjacent Duplicates In String
 
 ---
 

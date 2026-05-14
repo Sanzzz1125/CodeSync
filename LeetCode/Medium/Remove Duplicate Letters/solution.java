@@ -19,9 +19,9 @@ class Solution {
                 visited[stk.pop() - 'a'] = false;
             }
             stk.push(ch);
+
             visited[ch - 'a'] = true;
         }
-
         StringBuilder sb = new StringBuilder();
         for (char ch : stk) {
             sb.append(ch);

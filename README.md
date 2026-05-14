@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-359-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-360-blue)
 
-![Easy](https://img.shields.io/badge/Easy-227-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-228-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-122-yellow)
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Daily Temperatures
+Check if Array is Good
 
 ---
 

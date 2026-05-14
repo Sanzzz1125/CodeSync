@@ -37,7 +37,7 @@ Return the sum of all the scores on the record after applying all the operations
 
 The test cases are generated such that the answer and all intermediate calculations fit in a 32-bit integer and that all operations are valid.
 
- 
+ 
 
 Example 1:
 
@@ -50,7 +50,6 @@ Explanation:
 "D" - Add 2 * 5 = 10 to the record, record is now [5, 10].
 "+" - Add 5 + 10 = 15 to the record, record is now [5, 10, 15].
 The total sum is 5 + 10 + 15 = 30.
-
 
 Example 2:
 
@@ -67,7 +66,6 @@ Explanation:
 "+" - Add 9 + 5 = 14 to the record, record is now [5, -2, -4, 9, 5, 14].
 The total sum is 5 + -2 + -4 + 9 + 5 + 14 = 27.
 
-
 Example 3:
 
 Input: ops = ["1","C"]
@@ -77,8 +75,7 @@ Explanation:
 "C" - Invalidate and remove the previous score, record is now [].
 Since the record is empty, the total sum is 0.
 
-
- 
+ 
 
 Constraints:
 

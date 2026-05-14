@@ -26,7 +26,13 @@ Roman to Integer
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-33-blue)
+
+![Easy](https://img.shields.io/badge/Easy-23-brightgreen)
+
+![Medium](https://img.shields.io/badge/Medium-10-yellow)
+
+![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ---
 

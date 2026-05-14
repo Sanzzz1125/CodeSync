@@ -8,6 +8,7 @@ class Solution {
                 return false;
             }
         }
+        
         return nums[n-1] == n-1;
     }
 }

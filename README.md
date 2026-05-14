@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Remove All Adjacent Duplicates In String
+Baseball Game
 
 ---
 

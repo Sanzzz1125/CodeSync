@@ -26,13 +26,13 @@ Next Greater Element I
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-44-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-45-blue)
 
 ![Basic](https://img.shields.io/badge/Basic-11-lightgrey)
 
 ![Easy](https://img.shields.io/badge/Easy-23-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-10-yellow)
+![Medium](https://img.shields.io/badge/Medium-11-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 
@@ -40,7 +40,7 @@ Next Greater Element I
 
 ## 🔥 Latest GFG Problem
 
-Implement Lower Bound | Practice | GeeksforGeeks
+Next Greater Element | Practice | GeeksforGeeks
 
 ---
 

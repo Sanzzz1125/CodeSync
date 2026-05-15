@@ -26,11 +26,11 @@ Basic Calculator II
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-48-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-49-blue)
 
 ![Basic](https://img.shields.io/badge/Basic-11-lightgrey)
 
-![Easy](https://img.shields.io/badge/Easy-24-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-25-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-12-yellow)
 

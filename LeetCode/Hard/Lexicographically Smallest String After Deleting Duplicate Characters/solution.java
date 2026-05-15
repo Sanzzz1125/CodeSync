@@ -27,9 +27,9 @@ class Solution {
         while (stk.length() > 0) {
             char top = stk.charAt(stk.length() - 1);
 
-            if (count[top - 'a'] > 1) {
+            if (freq[top - 'a'] > 1) {
                 stk.deleteCharAt(stk.length() - 1);
-                count[top - 'a']--;
+                freq[top - 'a']--;
             } else {
                 break;
             }

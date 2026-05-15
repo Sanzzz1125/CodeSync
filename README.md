@@ -26,13 +26,13 @@ Find the Most Competitive Subsequence
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-46-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-47-blue)
 
 ![Basic](https://img.shields.io/badge/Basic-11-lightgrey)
 
 ![Easy](https://img.shields.io/badge/Easy-23-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-11-yellow)
+![Medium](https://img.shields.io/badge/Medium-12-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-1-red)
 
@@ -40,7 +40,7 @@ Find the Most Competitive Subsequence
 
 ## 🔥 Latest GFG Problem
 
-Smallest window containing all characters | Practice | GeeksforGeeks
+Remove K Digits | Practice | GeeksforGeeks
 
 ---
 

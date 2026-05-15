@@ -26,9 +26,9 @@ Find Minimum in Rotated Sorted Array
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-49-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-50-blue)
 
-![Basic](https://img.shields.io/badge/Basic-11-lightgrey)
+![Basic](https://img.shields.io/badge/Basic-12-lightgrey)
 
 ![Easy](https://img.shields.io/badge/Easy-25-brightgreen)
 
@@ -40,7 +40,7 @@ Find Minimum in Rotated Sorted Array
 
 ## 🔥 Latest GFG Problem
 
-Calculator | Practice | GeeksforGeeks
+Largest in Array | Practice | GeeksforGeeks
 
 ---
 

@@ -1,19 +1,39 @@
 class Solution {
     public String lexSmallestAfterDeletion(String s) {
-        if(s.length() == 1) return s;
+        int[] freq = new int[26];
+        for(char ch : s.toCharArray()){
+            freq[ch - 'a']++;
+        }
+        StringBuilder stk = new StringBuilder();
 
-        StringBuilder sb = new StringBuilder(s);
+        for(char ch : s.toCharArray()){
 
-        for (int i = 0; i < sb.length() - 1; i++) {
+            while(stk.length() > 0){
+                char top = stk.charAt(stk.length() - 1);
 
-            if (sb.charAt(i) > sb.charAt(i + 1)) {
-                sb.deleteCharAt(i);
-                return sb.toString();
+                if(top > ch && freq[top - 'a'] > 1){
+                    stk.deleteCharAt(stk.length() - 1);
+                    freq[top - 'a']--;
+                }else{
+                    break;
+                }
             }
+            stk.append(ch);
         }
 
-        sb.deleteCharAt(sb.length() - 1);
+        StringBuilder res = new StringBuilder();
+        int[] count = new int[26];
 
-        return sb.toString();
+        while (stk.length() > 0) {
+            char top = stk.charAt(stk.length() - 1);
+
+            if (count[top - 'a'] > 1) {
+                stk.deleteCharAt(stk.length() - 1);
+                count[top - 'a']--;
+            } else {
+                break;
+            }
+        }
+        return stk.toString();
     }
 }

@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-369-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-370-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-228-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-129-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-12-red)
+![Hard](https://img.shields.io/badge/Hard-13-red)
 
 ---
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Decode String
+Basic Calculator
 
 ---
 

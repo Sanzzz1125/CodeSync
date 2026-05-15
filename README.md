@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-365-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-366-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-228-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-126-yellow)
+![Medium](https://img.shields.io/badge/Medium-127-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-11-red)
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Remove K Digits
+Find the Most Competitive Subsequence
 
 ---
 

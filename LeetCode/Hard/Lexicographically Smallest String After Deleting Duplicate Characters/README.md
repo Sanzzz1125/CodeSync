@@ -16,7 +16,7 @@
 
 ## Problem Link
 
-https://leetcode.com/problems/lexicographically-smallest-string-after-deleting-duplicate-characters/
+https://leetcode.com/problems/lexicographically-smallest-string-after-deleting-duplicate-characters
 
 ---
 

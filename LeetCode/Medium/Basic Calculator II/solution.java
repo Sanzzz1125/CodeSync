@@ -26,10 +26,10 @@ class Solution {
                 num = 0;
             }
         }
-        num = 0;
-        while(!stk.isEmpty()){
-            num += stk.pop();
+        int ans = 0;
+        for(int ele : stk){
+            ans += ele;
         }
-        return num;
+        return ans;
     }
 }

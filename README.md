@@ -26,11 +26,11 @@ Basic Calculator II
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-47-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-48-blue)
 
 ![Basic](https://img.shields.io/badge/Basic-11-lightgrey)
 
-![Easy](https://img.shields.io/badge/Easy-23-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-24-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-12-yellow)
 
@@ -40,7 +40,7 @@ Basic Calculator II
 
 ## 🔥 Latest GFG Problem
 
-Remove K Digits | Practice | GeeksforGeeks
+Calculator | Practice | GeeksforGeeks
 
 ---
 

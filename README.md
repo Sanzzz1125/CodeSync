@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-371-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-372-blue)
 
-![Easy](https://img.shields.io/badge/Easy-228-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-229-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-129-yellow)
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Lexicographically Smallest String After Deleting Duplicate Characters
+Crawler Log Folder
 
 ---
 

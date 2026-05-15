@@ -12,6 +12,11 @@ class Solution {
             stk.push(ch);
         }
 
+        while(cnt < k){
+            stk.pop();
+            cnt++;
+        }
+
         StringBuilder sb = new StringBuilder();
         for(char ch : stk){
             sb.append(ch);

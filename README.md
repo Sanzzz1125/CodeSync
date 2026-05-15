@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-367-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-368-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-228-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-128-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-11-red)
+![Hard](https://img.shields.io/badge/Hard-12-red)
 
 ---
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Find Minimum in Rotated Sorted Array
+Create Maximum Number
 
 ---
 

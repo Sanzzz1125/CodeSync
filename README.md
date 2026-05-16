@@ -42,7 +42,7 @@ Path Sum III
 
 ## 🔥 Latest GFG Problem
 
-Root to leaf path sum | Practice | GeeksforGeeks
+Minimum Number in a sorted rotated array | Practice | GeeksforGeeks
 
 ---
 

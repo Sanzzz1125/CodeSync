@@ -26,23 +26,23 @@ Find Minimum in Rotated Sorted Array II
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-53-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
 
 ![School](https://img.shields.io/badge/School-0-lightblue)
 
-![Basic](https://img.shields.io/badge/Basic-12-lightgrey)
+![Basic](https://img.shields.io/badge/Basic-0-lightgrey)
 
-![Easy](https://img.shields.io/badge/Easy-26-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-14-yellow)
+![Medium](https://img.shields.io/badge/Medium-0-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-1-red)
+![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ---
 
 ## 🔥 Latest GFG Problem
 
-Sorted and Rotated Minimum | Practice | GeeksforGeeks
+Minimum Number in a sorted rotated array | Practice | GeeksforGeeks
 
 ---
 

@@ -13,6 +13,7 @@ class Solution {
                 high--;
             }
         }
+        
         return nums[low];
     }
 }

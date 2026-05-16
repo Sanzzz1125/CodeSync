@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Minimum Depth of Binary Tree
+Find Minimum in Rotated Sorted Array II
 
 ---
 

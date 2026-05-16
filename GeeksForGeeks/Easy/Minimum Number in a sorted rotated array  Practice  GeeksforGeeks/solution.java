@@ -1,6 +1,5 @@
 class Solution {
     static int minNumber(int arr[], int low, int high) {
-        
        low = 0;
        high = arr.length - 1;
 
@@ -16,6 +15,7 @@ class Solution {
                 high--;
             }
         }
+        
         return arr[low];
     }
 }

@@ -15,7 +15,6 @@ class Node{
 class Solution {
     public void dfs(Node root, int sum, Set<Integer> set){
         if(root == null) return;
-
         sum += root.data;
 
         if(root.left == null && root.right == null){

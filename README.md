@@ -2,25 +2,25 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-374-blue)
 
-![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-230-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-0-yellow)
+![Medium](https://img.shields.io/badge/Medium-129-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-0-red)
+![Hard](https://img.shields.io/badge/Hard-15-red)
 
 ---
 
 ## 👤 LeetCode User
 
-N/A
+Sanketh1125
 
 ---
 
 ## 🔥 Latest Solved Problem
 
-None
+Find Minimum in Rotated Sorted Array II
 
 ---
 

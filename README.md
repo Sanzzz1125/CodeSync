@@ -42,7 +42,7 @@ Basic Calculator
 
 ## 🔥 Latest GFG Problem
 
-Minimum Number in a sorted rotated array | Practice | GeeksforGeeks
+Root to leaf path sum | Practice | GeeksforGeeks
 
 ---
 

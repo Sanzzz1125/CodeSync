@@ -1,7 +1,7 @@
 class Solution {
     public int findMin(int[] nums) {
-        // code here
-         int low = 0, high = nums.length - 1;
+        
+        int low = 0, high = nums.length - 1;
 
         while(low < high){
             
@@ -15,6 +15,7 @@ class Solution {
                 high--;
             }
         }
+        
         return nums[low];
     }
 }

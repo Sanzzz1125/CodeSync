@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Basic Calculator
+Find Minimum in Rotated Sorted Array II
 
 ---
 

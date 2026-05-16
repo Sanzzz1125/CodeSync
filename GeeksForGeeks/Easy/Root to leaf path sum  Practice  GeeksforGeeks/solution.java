@@ -29,7 +29,6 @@ class Solution {
     
     boolean hasPathSum(Node root, int target) {
         Set<Integer> set = new HashSet<>();
-        
         dfs(root, 0, set );
         
         return (set.contains(target));

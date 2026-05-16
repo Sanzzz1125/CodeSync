@@ -1,6 +1,7 @@
 class Solution {
     public int pathSum(TreeNode root, int targetSum) {
         if (root == null) return 0;
+
         return countPath(root, targetSum) + pathSum(root.left, targetSum) + pathSum(root.right, targetSum);
     }
 
@@ -13,6 +14,7 @@ class Solution {
 
         count += countPath(node.left, targetSum - node.val);
         count += countPath(node.right, targetSum - node.val);
+        
         return count;
     }
 }

@@ -7,7 +7,6 @@ class Solution {
         StringBuilder stk = new StringBuilder();
 
         for(char ch : s.toCharArray()){
-
             while(stk.length() > 0){
                 char top = stk.charAt(stk.length() - 1);
 
@@ -34,6 +33,7 @@ class Solution {
                 break;
             }
         }
+        
         return stk.toString();
     }
 }

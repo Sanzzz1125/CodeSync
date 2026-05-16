@@ -26,17 +26,17 @@ Find Minimum in Rotated Sorted Array II
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-125-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
 
 ![School](https://img.shields.io/badge/School-0-lightblue)
 
-![Basic](https://img.shields.io/badge/Basic-30-lightgrey)
+![Basic](https://img.shields.io/badge/Basic-0-lightgrey)
 
-![Easy](https://img.shields.io/badge/Easy-54-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-37-yellow)
+![Medium](https://img.shields.io/badge/Medium-0-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-4-red)
+![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ---
 

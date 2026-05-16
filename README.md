@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Path Sum III
+Find Minimum in Rotated Sorted Array II
 
 ---
 

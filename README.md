@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Lexicographically Smallest String After Deleting Duplicate Characters
+Basic Calculator
 
 ---
 

@@ -16,6 +16,7 @@ class Solution {
                 high--;
             }
         }
+        
         return arr[low];
     }
 }

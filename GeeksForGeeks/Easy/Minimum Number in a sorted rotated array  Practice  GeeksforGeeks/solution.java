@@ -10,15 +10,12 @@ class Solution {
     
             if (arr[mid] < arr[high]) {
                 high = mid;
-            } 
-            else if (arr[mid] > arr[high]) {
+            } else if (arr[mid] > arr[high]) {
                 low = mid + 1;
-            } 
-            else {
+            } else {
                 high--;
             }
         }
-        
         return arr[low];
     }
 }

@@ -35,6 +35,7 @@ class Solution {
         
         return root.data+left+right;
     }
+    
     boolean isSumTree(Node root) {
         
         return sum(root)!=-1;

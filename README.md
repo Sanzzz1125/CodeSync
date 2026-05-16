@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-374-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-375-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-230-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-129-yellow)
+![Medium](https://img.shields.io/badge/Medium-130-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-15-red)
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Find Minimum in Rotated Sorted Array II
+Path Sum III
 
 ---
 

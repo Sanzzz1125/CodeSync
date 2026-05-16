@@ -18,7 +18,6 @@ class Solution {
         if(root.left==null && root.right==null){
             return root.data;
         }
-        
         int left=sum(root.left);
         
         if(left==-1){

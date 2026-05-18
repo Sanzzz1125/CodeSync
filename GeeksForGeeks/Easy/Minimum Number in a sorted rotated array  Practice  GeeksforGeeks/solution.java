@@ -1,6 +1,7 @@
 class Solution {
     static int minNumber(int arr[], int low, int high) {
        low = 0;
+       
        high = arr.length - 1;
 
         while (low < high) {
@@ -15,7 +16,6 @@ class Solution {
                 high--;
             }
         }
-        
         return arr[low];
     }
 }

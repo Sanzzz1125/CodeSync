@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-377-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-378-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-230-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-131-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-16-red)
+![Hard](https://img.shields.io/badge/Hard-17-red)
 
 ---
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Maximum Width of Binary Tree
+Vertical Order Traversal of a Binary Tree
 
 ---
 

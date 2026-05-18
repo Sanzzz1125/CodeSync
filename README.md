@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Vertical Order Traversal of a Binary Tree
+Range Sum of BST
 
 ---
 

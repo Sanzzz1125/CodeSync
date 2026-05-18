@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Binary Tree Maximum Path Sum
+Maximum Width of Binary Tree
 
 ---
 

@@ -14,52 +14,39 @@
  * }
  */
 class Solution {
-
-    public int widthOfBinaryTree(TreeNode root) {
-
-        if (root == null) return 0;
-
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-        int maxWidth = 0;
-        while (!q.isEmpty()) {
-
-            int size = q.size();
-            List<TreeNode> level = new ArrayList<>();
-            boolean hasNonNull = false;
-
-            for (int i = 0; i < size; i++) {
-
-                TreeNode node = q.poll();
-                level.add(node);
-
-                if (node != null) {
-                    hasNonNull = true;
-                    q.offer(node.left);
-                    q.offer(node.right);
-                } else {
-                    q.offer(null);
-                    q.offer(null);
-                }
-            }
-
-            if (!hasNonNull) break;
-
-            int left = 0;
-            while (left < level.size() && level.get(left) == null) {
-                left++;
-            }
-
-            int right = level.size() - 1;
-            while (right >= 0 && level.get(right) == null) {
-                right--;
-            }
-
-            if (left <= right) {
-                maxWidth = Math.max(maxWidth, right - left + 1);
-            }
+    class Pair{
+        TreeNode node;
+        int index;
+        Pair(TreeNode node,int index){
+            this.node=node;
+            this.index=index;
         }
+    }
+    public int widthOfBinaryTree(TreeNode root) {
+        if(root==null) return 0;
+        Queue<Pair> q=new LinkedList<>();
 
-        return maxWidth;
+        q.add(new Pair(root,0));
+
+        int maxwidth=0;
+        while(!q.isEmpty()){
+            int size=q.size();
+
+            int start=0,end=0;
+
+            for(int i=0;i<size;i++){
+                Pair curr=q.poll();
+                TreeNode node=curr.node;
+                int index=curr.index;
+
+                if(i==0) start=index;
+                if(i==size-1) end=index;
+                
+                if(node.left!=null) q.add(new Pair(node.left,2*index+1));
+                if(node.right!=null) q.add(new Pair(node.right,2*index+2));
+            }
+            maxwidth=Math.max(maxwidth,end-start+1);
+        }
+        return maxwidth;
     }
 }

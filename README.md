@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Implement Trie (Prefix Tree)
+Rotated Digits
 
 ---
 

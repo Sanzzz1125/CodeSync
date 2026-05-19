@@ -4,7 +4,7 @@ class Trie {
         TrieNode[] children;
         boolean isEnd;
         TrieNode(){
-            children = new TrieNode[25];
+            children = new TrieNode[26];
             isEnd = false;
         }
     }

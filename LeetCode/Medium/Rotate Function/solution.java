@@ -8,7 +8,6 @@ class Solution {
             sum += nums[i];
             f0 += (long) i * nums[i];
         }
-
         long max = f0;
         long curr = f0;
 
@@ -16,6 +15,7 @@ class Solution {
             curr = curr + sum - (long) n * nums[n - k];
             max = Math.max(max, curr);
         }
+        
         return (int) max;
     }
 }

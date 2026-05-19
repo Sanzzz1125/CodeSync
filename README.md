@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Kth Smallest Element in a BST
+Validate Binary Search Tree
 
 ---
 

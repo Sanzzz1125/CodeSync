@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Minimum Common Value
+Implement Trie (Prefix Tree)
 
 ---
 

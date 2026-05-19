@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Construct Binary Tree from Preorder and Inorder Traversal
+Minimum Common Value
 
 ---
 

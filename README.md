@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-383-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-384-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-231-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-135-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-17-red)
+![Hard](https://img.shields.io/badge/Hard-18-red)
 
 ---
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Lowest Common Ancestor of a Binary Tree
+Maximum Sum BST in Binary Tree
 
 ---
 

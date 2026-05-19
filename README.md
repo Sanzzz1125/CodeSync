@@ -42,7 +42,7 @@ Rotate Function
 
 ## 🔥 Latest GFG Problem
 
-Minimum Number in a sorted rotated array | Practice | GeeksforGeeks
+N meetings in one room | Practice | GeeksforGeeks
 
 ---
 

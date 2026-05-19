@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-380-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-381-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-231-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-132-yellow)
+![Medium](https://img.shields.io/badge/Medium-133-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-17-red)
 

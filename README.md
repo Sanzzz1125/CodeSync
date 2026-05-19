@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-384-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-385-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-231-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-135-yellow)
+![Medium](https://img.shields.io/badge/Medium-136-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-18-red)
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Maximum Sum BST in Binary Tree
+Construct Binary Tree from Preorder and Inorder Traversal
 
 ---
 

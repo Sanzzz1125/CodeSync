@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-389-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-390-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-232-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-139-yellow)
+![Medium](https://img.shields.io/badge/Medium-140-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-18-red)
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Replace Words
+Design Add and Search Words Data Structure
 
 ---
 

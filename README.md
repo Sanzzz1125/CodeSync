@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-390-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-391-blue)
 
-![Easy](https://img.shields.io/badge/Easy-232-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-233-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-140-yellow)
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Design Add and Search Words Data Structure
+Find the Town Judge
 
 ---
 

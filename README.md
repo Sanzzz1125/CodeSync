@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-392-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-393-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-233-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-141-yellow)
+![Medium](https://img.shields.io/badge/Medium-142-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-18-red)
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Minimum Number of Vertices to Reach All Nodes
+All Paths From Source to Target
 
 ---
 

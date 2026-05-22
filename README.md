@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-394-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-395-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-233-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-143-yellow)
+![Medium](https://img.shields.io/badge/Medium-144-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-18-red)
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Search in Rotated Sorted Array
+Pacific Atlantic Water Flow
 
 ---
 

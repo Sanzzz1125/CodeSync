@@ -26,7 +26,7 @@ Pacific Atlantic Water Flow
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-57-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-58-blue)
 
 ![School](https://img.shields.io/badge/School-0-lightblue)
 
@@ -34,7 +34,7 @@ Pacific Atlantic Water Flow
 
 ![Easy](https://img.shields.io/badge/Easy-28-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-15-yellow)
+![Medium](https://img.shields.io/badge/Medium-16-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-2-red)
 
@@ -42,7 +42,7 @@ Pacific Atlantic Water Flow
 
 ## 🔥 Latest GFG Problem
 
-Pacific Atlantic Water Flow | Practice | GeeksforGeeks
+Rotten Oranges | Practice | GeeksforGeeks
 
 ---
 

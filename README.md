@@ -26,7 +26,7 @@ Pacific Atlantic Water Flow
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-56-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-57-blue)
 
 ![School](https://img.shields.io/badge/School-0-lightblue)
 
@@ -36,13 +36,13 @@ Pacific Atlantic Water Flow
 
 ![Medium](https://img.shields.io/badge/Medium-15-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-1-red)
+![Hard](https://img.shields.io/badge/Hard-2-red)
 
 ---
 
 ## 🔥 Latest GFG Problem
 
-Find the number of islands | Practice | GeeksforGeeks
+Pacific Atlantic Water Flow | Practice | GeeksforGeeks
 
 ---
 

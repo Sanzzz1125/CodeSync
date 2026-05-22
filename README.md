@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Number of Provinces
+Search in Rotated Sorted Array
 
 ---
 

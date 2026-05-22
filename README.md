@@ -26,7 +26,7 @@ Search in Rotated Sorted Array
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-55-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-56-blue)
 
 ![School](https://img.shields.io/badge/School-0-lightblue)
 
@@ -34,7 +34,7 @@ Search in Rotated Sorted Array
 
 ![Easy](https://img.shields.io/badge/Easy-28-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-14-yellow)
+![Medium](https://img.shields.io/badge/Medium-15-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-1-red)
 
@@ -42,7 +42,7 @@ Search in Rotated Sorted Array
 
 ## 🔥 Latest GFG Problem
 
-N meetings in one room | Practice | GeeksforGeeks
+Find the number of islands | Practice | GeeksforGeeks
 
 ---
 

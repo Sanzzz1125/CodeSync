@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Pacific Atlantic Water Flow
+Two Sum
 
 ---
 

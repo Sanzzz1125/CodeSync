@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-395-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-396-blue)
 
-![Easy](https://img.shields.io/badge/Easy-233-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-234-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-144-yellow)
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-House Robber
+Count the Number of Special Characters I
 
 ---
 

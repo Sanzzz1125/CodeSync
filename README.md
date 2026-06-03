@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Count the Number of Special Characters I
+Two Sum
 
 ---
 

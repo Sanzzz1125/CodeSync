@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-396-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-397-blue)
 
-![Easy](https://img.shields.io/badge/Easy-234-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-235-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-144-yellow)
 
@@ -20,29 +20,29 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Two Sum
+Maximum Number of Balloons
 
 ---
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-58-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
 
 ![School](https://img.shields.io/badge/School-0-lightblue)
 
-![Basic](https://img.shields.io/badge/Basic-12-lightgrey)
+![Basic](https://img.shields.io/badge/Basic-0-lightgrey)
 
-![Easy](https://img.shields.io/badge/Easy-28-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-16-yellow)
+![Medium](https://img.shields.io/badge/Medium-0-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-2-red)
+![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ---
 
 ## 🔥 Latest GFG Problem
 
-Rotten Oranges | Practice | GeeksforGeeks
+None
 
 ---
 

@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-397-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-398-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-235-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-144-yellow)
+![Medium](https://img.shields.io/badge/Medium-145-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-18-red)
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Maximum Number of Balloons
+Maximum Product of Two Digits
 
 ---
 

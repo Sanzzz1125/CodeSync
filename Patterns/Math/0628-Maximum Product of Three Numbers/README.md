@@ -14,7 +14,7 @@
 
 ## Problem Link
 
-https://leetcode.com/problems/maximum-product-of-three-numbers
+https://leetcode.com/problems/maximum-product-of-three-numbers/
 
 ---
 
@@ -44,6 +44,16 @@ Constraints:
 ## Language
 
 java
+
+
+## ⚡ Submission Stats
+
+| Metric | Value |
+|--------|-------|
+| Runtime | 15 ms *(beats 80%)* |
+| Memory  | 48.2 MB *(beats 42%)* |
+
+---
 
 ---
 

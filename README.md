@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Maximum Product of Two Digits
+Maximum Product of Three Numbers
 
 ---
 

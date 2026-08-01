@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Maximum Product of Three Numbers
+House Robber
 
 ---
 
@@ -46,4 +46,11 @@ None
 
 ---
 
+## 📘 Built-in Sheets
+
+- Striver's A2Z Sheet
+- NeetCode 150
+- Apna College DSA Sheet
+
+---
 Powered by SyncLeetX ⚡

@@ -42,7 +42,7 @@ House Robber
 
 ## 🔥 Latest GFG Problem
 
-Largest in Array | Practice | GeeksforGeeks
+Zig-Zag Tree Traversal | Practice | GeeksforGeeks
 
 ---
 

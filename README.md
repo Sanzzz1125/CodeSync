@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Reverse Integer
+Palindrome Number
 
 ---
 

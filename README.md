@@ -42,7 +42,7 @@ Remove Nth Node From End of List
 
 ## 🔥 Latest GFG Problem
 
-Zig-Zag Tree Traversal | Practice | GeeksforGeeks
+Get Min from Stack | Practice | GeeksforGeeks
 
 ---
 

@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Binary Tree Inorder Traversal
+Two Sum
 
 ---
 

@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Container With Most Water
+Longest Common Prefix
 
 ---
 

@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Longest Common Prefix
+Remove Nth Node From End of List
 
 ---
 

@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Remove Nth Node From End of List
+Reverse Integer
 
 ---
 

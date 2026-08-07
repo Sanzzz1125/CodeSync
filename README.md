@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-398-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-399-blue)
 
-![Easy](https://img.shields.io/badge/Easy-235-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-236-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-145-yellow)
 
@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Find Numbers with Even Number of Digits
+Smallest Divisible Digit Product I
 
 ---
 
@@ -51,7 +51,6 @@ Get Min from Stack | Practice | GeeksforGeeks
 - Striver's A2Z Sheet
 - NeetCode 150
 - Apna College DSA Sheet
-- Apna College DP Sheet
 
 ---
 Powered by SyncLeetX ⚡

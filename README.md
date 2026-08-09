@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Smallest Divisible Digit Product I
+Longest Substring Without Repeating Characters
 
 ---
 
@@ -42,7 +42,7 @@ Smallest Divisible Digit Product I
 
 ## 🔥 Latest GFG Problem
 
-Get Min from Stack | Practice | GeeksforGeeks
+None
 
 ---
 

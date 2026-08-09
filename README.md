@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Longest Substring Without Repeating Characters
+Trapping Rain Water
 
 ---
 

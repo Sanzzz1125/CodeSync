@@ -20,7 +20,7 @@ Sanketh1125
 
 ## 🔥 Latest Solved Problem
 
-Trapping Rain Water
+Add Two Numbers
 
 ---
 

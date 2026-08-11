@@ -1,66 +1,56 @@
-<div align="center">
+# CodeSyncHub 🚀
 
-<img src="https://img.shields.io/badge/CodeSyncHub-⚡-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="CodeSyncHub" />
+## 🟢 LeetCode Stats
 
-# Sanketh1125's DSA Progress
+![Total Solved](https://img.shields.io/badge/Total_Solved-399-blue)
 
-Auto-tracked by **[SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafclhmgeobkjlan)** — every solve synced straight from LeetCode & GeeksforGeeks.
+![Easy](https://img.shields.io/badge/Easy-236-brightgreen)
 
-<img src="https://img.shields.io/badge/Last%20Updated-August%2011%2C%202026-8b5cf6?style=flat-square&labelColor=1e1b2e" alt="Last Updated" />
-<img src="https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square&logo=googlechrome&logoColor=8b5cf6" alt="Powered by SyncLeetX" />
+![Medium](https://img.shields.io/badge/Medium-145-yellow)
 
-</div>
-
-<br>
-
-<div align="center">
-
-## 🟡 LeetCode
-
-<img src="https://img.shields.io/badge/Total%20Solved-399-3b82f6?style=for-the-badge&labelColor=0f172a" alt="Total" />
-<img src="https://img.shields.io/badge/Easy-236-22c55e?style=for-the-badge&labelColor=0f172a" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-145-f59e0b?style=for-the-badge&labelColor=0f172a" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-18-ef4444?style=for-the-badge&labelColor=0f172a" alt="Hard" />
-
-</div>
-
-<br>
-
-| Difficulty | Solved | Share | Progress |
-|:---|:---:|:---:|:---|
-| 🟢 &nbsp;Easy | **236** | 59% | `███████████░░░░░░░` |
-| 🟡 &nbsp;Medium | **145** | 36% | `███████░░░░░░░░░░░` |
-| 🔴 &nbsp;Hard | **18** | 5% | `█░░░░░░░░░░░░░░░░░░` |
-| **Total** | **399** | 100% | — |
-
-> 🔥 **Latest Solved:** `Add Two Numbers`
+![Hard](https://img.shields.io/badge/Hard-18-red)
 
 ---
 
-<div align="center">
+## 👤 LeetCode User
 
-## 🟢 GeeksforGeeks
-
-<img src="https://img.shields.io/badge/Total%20Solved-57-3b82f6?style=for-the-badge&labelColor=0f172a" alt="Total" />
-<img src="https://img.shields.io/badge/Easy-26-22c55e?style=for-the-badge&labelColor=0f172a" alt="Easy" />
-<img src="https://img.shields.io/badge/Medium-19-f59e0b?style=for-the-badge&labelColor=0f172a" alt="Medium" />
-<img src="https://img.shields.io/badge/Hard-1-ef4444?style=for-the-badge&labelColor=0f172a" alt="Hard" />
-
-</div>
-
-<br>
-
-| Difficulty | Solved |
-|:---|:---:|
-| 🏫 &nbsp;School | **0** |
-| 📗 &nbsp;Basic | **11** |
-| 🟢 &nbsp;Easy | **26** |
-| 🟡 &nbsp;Medium | **19** |
-| 🔴 &nbsp;Hard | **1** |
-| **Total** | **57** |
-
-> 🔥 **Latest Solved:** `—`
+Sanketh1125
 
 ---
 
-## 📂 Repository Structure
+## 🔥 Latest Solved Problem
+
+Maximum Subarray
+
+---
+
+## 🟢 GeeksForGeeks Stats
+
+![Total Solved](https://img.shields.io/badge/Total_Solved-57-blue)
+
+![School](https://img.shields.io/badge/School-0-lightblue)
+
+![Basic](https://img.shields.io/badge/Basic-11-lightgrey)
+
+![Easy](https://img.shields.io/badge/Easy-26-brightgreen)
+
+![Medium](https://img.shields.io/badge/Medium-19-yellow)
+
+![Hard](https://img.shields.io/badge/Hard-1-red)
+
+---
+
+## 🔥 Latest GFG Problem
+
+None
+
+---
+
+## 📘 Built-in Sheets
+
+- Striver's A2Z Sheet
+- NeetCode 150
+- Apna College DSA Sheet
+
+---
+Powered by SyncLeetX ⚡

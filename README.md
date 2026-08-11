@@ -1,56 +1,67 @@
-# CodeSyncHub 🚀
+<div align="center">
 
-## 🟢 LeetCode Stats
+# 🚀 CodeSyncHub
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-399-blue)
+### Sanketh1125's DSA Progress — Auto-tracked by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafc1hmgeobkjlan)
 
-![Easy](https://img.shields.io/badge/Easy-236-brightgreen)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-August%2011%2C%202026-8b5cf6?style=flat-square)
+![Powered by](https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square&logo=google-chrome&logoColor=white)
 
-![Medium](https://img.shields.io/badge/Medium-145-yellow)
-
-![Hard](https://img.shields.io/badge/Hard-18-red)
-
----
-
-## 👤 LeetCode User
-
-Sanketh1125
+</div>
 
 ---
 
-## 🔥 Latest Solved Problem
+## 🟡 LeetCode
 
-Add Two Numbers
+<div align="center">
 
----
+![Total](https://img.shields.io/badge/Total%20Solved-399-3b82f6?style=for-the-badge)
+&nbsp;
+![Easy](https://img.shields.io/badge/Easy-236-22c55e?style=for-the-badge)
+&nbsp;
+![Medium](https://img.shields.io/badge/Medium-145-f59e0b?style=for-the-badge)
+&nbsp;
+![Hard](https://img.shields.io/badge/Hard-18-ef4444?style=for-the-badge)
 
-## 🟢 GeeksForGeeks Stats
+</div>
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-57-blue)
+| Difficulty | Solved | Share |
+|:---:|:---:|:---:|
+| 🟢 Easy | **236** | 59% |
+| 🟡 Medium | **145** | 36% |
+| 🔴 Hard | **18** | 5% |
+| **Total** | **399** | — |
 
-![School](https://img.shields.io/badge/School-0-lightblue)
-
-![Basic](https://img.shields.io/badge/Basic-11-lightgrey)
-
-![Easy](https://img.shields.io/badge/Easy-26-brightgreen)
-
-![Medium](https://img.shields.io/badge/Medium-19-yellow)
-
-![Hard](https://img.shields.io/badge/Hard-1-red)
-
----
-
-## 🔥 Latest GFG Problem
-
-None
+🔥 **Latest Solved:** `Add Two Numbers`
 
 ---
 
-## 📘 Built-in Sheets
+## 🟢 GeeksforGeeks
 
-- Striver's A2Z Sheet
-- NeetCode 150
-- Apna College DSA Sheet
+<div align="center">
+
+![Total](https://img.shields.io/badge/Total%20Solved-57-3b82f6?style=for-the-badge)
+&nbsp;
+![Easy](https://img.shields.io/badge/Easy-26-22c55e?style=for-the-badge)
+&nbsp;
+![Medium](https://img.shields.io/badge/Medium-19-f59e0b?style=for-the-badge)
+&nbsp;
+![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=for-the-badge)
+
+</div>
+
+| Difficulty | Solved |
+|:---:|:---:|
+| 🏫 School | **0** |
+| 📗 Basic | **11** |
+| 🟢 Easy | **26** |
+| 🟡 Medium | **19** |
+| 🔴 Hard | **1** |
+| **Total** | **57** |
+
+🔥 **Latest Solved:** `—`
 
 ---
-Powered by SyncLeetX ⚡
+
+## 📂 Repository Structure
+

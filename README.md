@@ -4,7 +4,7 @@
 
 # Sanketh1125's DSA Progress
 
-Auto-tracked by **[SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafc1hmgeobkjlan)** — every solve synced straight from LeetCode & GeeksforGeeks.
+Auto-tracked by **[SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafclhmgeobkjlan)** — every solve synced straight from LeetCode & GeeksforGeeks.
 
 <img src="https://img.shields.io/badge/Last%20Updated-August%2011%2C%202026-8b5cf6?style=flat-square&labelColor=1e1b2e" alt="Last Updated" />
 <img src="https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square&logo=googlechrome&logoColor=8b5cf6" alt="Powered by SyncLeetX" />

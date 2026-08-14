@@ -32,7 +32,7 @@
 | 🔴 Hard | **18** | 5% |
 | **Total** | **399** | — |
 
-🔥 **Latest Solved:** `Majority Element`
+🔥 **Latest Solved:** `3Sum`
 
 ---
 

@@ -4,7 +4,7 @@
 
 ### Sanketh1125's DSA Progress — Auto-tracked by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafc1hmgeobkjlan)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-August%2014%2C%202026-8b5cf6?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-August%2015%2C%202026-8b5cf6?style=flat-square)
 ![Powered by](https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square&logo=google-chrome&logoColor=white)
 
 </div>
@@ -32,7 +32,7 @@
 | 🔴 Hard | **18** | 5% |
 | **Total** | **399** | — |
 
-🔥 **Latest Solved:** `3Sum`
+🔥 **Latest Solved:** `Reverse Integer`
 
 ---
 

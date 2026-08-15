@@ -32,7 +32,7 @@
 | 🔴 Hard | **18** | 5% |
 | **Total** | **399** | — |
 
-🔥 **Latest Solved:** `Reverse Integer`
+🔥 **Latest Solved:** `Zigzag Conversion`
 
 ---
 

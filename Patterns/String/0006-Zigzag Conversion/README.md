@@ -62,15 +62,15 @@ Constraints:
 
 ## Language
 
-python3
+java
 
 
 ## ⚡ Submission Stats
 
 | Metric | Value |
 |--------|-------|
-| Runtime | 11 ms *(beats 51%)* |
-| Memory  | 19.4 MB *(beats 46%)* |
+| Runtime | 4 ms *(beats 88%)* |
+| Memory  | 46.7 MB *(beats 48%)* |
 
 ---
 

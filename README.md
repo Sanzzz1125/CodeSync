@@ -32,7 +32,7 @@
 | 🔴 Hard | **18** | 5% |
 | **Total** | **400** | — |
 
-🔥 **Latest Solved:** `Search in a Binary Search Tree`
+🔥 **Latest Solved:** `Maximum Depth of Binary Tree`
 
 ---
 

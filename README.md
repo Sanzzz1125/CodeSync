@@ -4,7 +4,7 @@
 
 ### Sanketh1125's DSA Progress — Auto-tracked by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafc1hmgeobkjlan)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-August%2028%2C%202026-8b5cf6?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-September%205%2C%202026-8b5cf6?style=flat-square)
 ![Powered by](https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square&logo=google-chrome&logoColor=white)
 
 </div>
@@ -32,7 +32,7 @@
 | 🔴 Hard | **18** | 5% |
 | **Total** | **400** | — |
 
-🔥 **Latest Solved:** `Maximum Depth of Binary Tree`
+🔥 **Latest Solved:** `Two Sum`
 
 ---
 
@@ -42,7 +42,7 @@
 
 ![Total](https://img.shields.io/badge/Total%20Solved-57-3b82f6?style=for-the-badge)
 &nbsp;
-![Easy](https://img.shields.io/badge/Easy-25-22c55e?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-24-22c55e?style=for-the-badge)
 &nbsp;
 ![Medium](https://img.shields.io/badge/Medium-19-f59e0b?style=for-the-badge)
 &nbsp;
@@ -53,8 +53,8 @@
 | Difficulty | Solved |
 |:---:|:---:|
 | 🏫 School | **0** |
-| 📗 Basic | **12** |
-| 🟢 Easy | **25** |
+| 📗 Basic | **13** |
+| 🟢 Easy | **24** |
 | 🟡 Medium | **19** |
 | 🔴 Hard | **1** |
 | **Total** | **57** |

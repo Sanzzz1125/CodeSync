@@ -2,7 +2,7 @@
 
 # 🚀 Sanketh1125's DSA Progress
 
-### Auto-tracked by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafc1hmgeobkjlan)
+### Auto-tracked by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafclhmgeobkjlan)
 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2026%2C%202026-8b5cf6?style=flat-square)
 ![Powered by](https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square)
@@ -40,26 +40,26 @@
 
 <div align="center">
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-0-3b82f6?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-56-3b82f6?style=for-the-badge)
 &nbsp;
-![Easy](https://img.shields.io/badge/Easy-0-22c55e?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-21-22c55e?style=for-the-badge)
 &nbsp;
-![Medium](https://img.shields.io/badge/Medium-0-f59e0b?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-19-f59e0b?style=for-the-badge)
 &nbsp;
-![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=for-the-badge)
 
 </div>
 
 | Difficulty | Solved |
 |:---:|:---:|
 | 🏫 School | **0** |
-| 📗 Basic | **0** |
-| 🟢 Easy | **0** |
-| 🟡 Medium | **0** |
-| 🔴 Hard | **0** |
-| **Total** | **0** |
+| 📗 Basic | **15** |
+| 🟢 Easy | **21** |
+| 🟡 Medium | **19** |
+| 🔴 Hard | **1** |
+| **Total** | **56** |
 
-🔥 **Latest Solved:** `—`
+🔥 **Latest Solved:** `Sorted and Rotated Minimum`
 
 ---
 
@@ -77,6 +77,6 @@
 
 <div align="center">
 
-*Every accepted solution is automatically pushed here by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafc1hmgeobkjlan) ⚡*
+*Every accepted solution is automatically pushed here by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafclhmgeobkjlan) ⚡*
 
 </div>

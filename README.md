@@ -1,82 +1,29 @@
-<div align="center">
+# Sanketh1125's DSA solutions
 
-# 🚀 Sanketh1125's DSA Progress
+Every accepted solution from LeetCode and GeeksforGeeks, committed automatically by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafclhmgeobkjlan).
 
-### Auto-tracked by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafclhmgeobkjlan)
+<img src="assets/syncleetx-card.svg" alt="Sanketh1125 DSA progress: 1-day streak, 400 LeetCode and 56 GeeksforGeeks problems solved" width="100%">
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2026%2C%202026-8b5cf6?style=flat-square)
-![Powered by](https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square)
+## Recently solved
 
-</div>
+| | Problem | Difficulty | Language | Solved |
+|:-:|---|:-:|:-:|:-:|
+| 🟢 | [Sorted and Rotated Minimum](https://www.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1) <sub>GFG</sub> | Easy |  | Nov 26 |
+| 🟢 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |  | Nov 26 |
 
----
+## Sheets
 
-## 🟡 LeetCode
+| Sheet | Progress | Solved |
+|---|---|--:|
+| Striver's A2Z Sheet | `██████░░░░░░░░░░░░░░` 30% | **121** / 406 |
+| NeetCode 150 | `█████████░░░░░░░░░░░` 45% | **68** / 150 |
+| Apna College DSA Sheet | `████████░░░░░░░░░░░░` 38% | **74** / 193 |
+| Apna College DP Sheet | `██░░░░░░░░░░░░░░░░░░` 8% | **4** / 50 |
 
-<div align="center">
+## Strongest topics
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-400-3b82f6?style=for-the-badge)
-&nbsp;
-![Easy](https://img.shields.io/badge/Easy-237-22c55e?style=for-the-badge)
-&nbsp;
-![Medium](https://img.shields.io/badge/Medium-145-f59e0b?style=for-the-badge)
-&nbsp;
-![Hard](https://img.shields.io/badge/Hard-18-ef4444?style=for-the-badge)
-
-</div>
-
-| Difficulty | Solved | Share |
-|:---:|:---:|:---:|
-| 🟢 Easy | **237** | 59% |
-| 🟡 Medium | **145** | 36% |
-| 🔴 Hard | **18** | 5% |
-| **Total** | **400** | — |
-
-🔥 **Latest Solved:** `Two Sum`
+`Array 172` `String 107` `Hash table 62` `Two pointers 46` `Trees 45` `Graphs 45`
 
 ---
 
-## 🟢 GeeksforGeeks
-
-<div align="center">
-
-![Total Solved](https://img.shields.io/badge/Total%20Solved-56-3b82f6?style=for-the-badge)
-&nbsp;
-![Easy](https://img.shields.io/badge/Easy-21-22c55e?style=for-the-badge)
-&nbsp;
-![Medium](https://img.shields.io/badge/Medium-19-f59e0b?style=for-the-badge)
-&nbsp;
-![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=for-the-badge)
-
-</div>
-
-| Difficulty | Solved |
-|:---:|:---:|
-| 🏫 School | **0** |
-| 📗 Basic | **15** |
-| 🟢 Easy | **21** |
-| 🟡 Medium | **19** |
-| 🔴 Hard | **1** |
-| **Total** | **56** |
-
-🔥 **Latest Solved:** `Sorted and Rotated Minimum`
-
----
-
-## 📂 Repository Structure
-
-```
-📦 repo
- ┣ 📁 LeetCode/<Difficulty>/<Problem>/     ← every accepted solution
- ┣ 📁 GeeksForGeeks/<Difficulty>/<Problem>/
- ┣ 📁 Patterns/<Topic>/<Problem>/          ← same solution, grouped by topic
- ┗ 📁 Sheets/<Sheet>/<Step>/<Topic>/       ← when solved from a tracked sheet
-```
-
----
-
-<div align="center">
-
-*Every accepted solution is automatically pushed here by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafclhmgeobkjlan) ⚡*
-
-</div>
+<sub>Tracked with [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafclhmgeobkjlan). This README and the card above update on every accepted solution.</sub>
